@@ -12,7 +12,27 @@ Discover travel inspiration from other people, save what you love, make a trip y
 
 Tripovela combines a visual travel community, place discovery, personal trip editing and shareable trip pages. Start writing as a guest, add places to the story, keep a private copy and share a version when it is ready. Tripovela is an independent product and is not affiliated with Pinterest.
 
-![Explore a trip with ten numbered stops on an expandable map](docs/images/rome-map.jpg)
+## A social feed built around travel
+
+People publish **travel stories, place recommendations and collections, routes, and questions**. Each post keeps the author visible, with follow, like, comment, save and share actions. Browse the feed, join a conversation, or turn someone else's travel idea into your own trip.
+
+The captures below show complete post cards from the live site, including public usernames and social actions. Click any image to see it at full resolution.
+
+### Travel stories
+
+![Travel-story feed with two complete posts, public authors, photographs, follow buttons and social actions](docs/images/feed-stories.jpg)
+
+### Questions and community answers
+
+![Question posts with author profiles, photographs, answer buttons and social actions](docs/images/feed-questions.jpg)
+
+### Places and collections
+
+![Complete Rome collection post with photographs, selectable places and social actions](docs/images/feed-places.jpg)
+
+### Routes and shared trips
+
+![Route feed with complete Rome and Colmar cards, creators, destination details and sharing actions](docs/images/feed-routes.jpg)
 
 ## From an idea to a shared trip
 
@@ -26,9 +46,7 @@ Tripovela combines a visual travel community, place discovery, personal trip edi
 
 ![Trip overview with destination, author estimates and copying and sharing actions](docs/images/trip-overview.jpg)
 
-![Large photo gallery](docs/images/photo-gallery.jpg)
-
-See the [product gallery](docs/product-gallery.md) for more screens and their capture context.
+See the [product gallery](docs/product-gallery.md) for the mixed feed, a full trip page from top to bottom, maps, the large photo gallery, administration and installation.
 
 ## Install
 
