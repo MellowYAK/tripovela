@@ -1,0 +1,1 @@
+<section class="notice"><p><?=e(revT('offers_context'))?></p><a href="<?=e(languageUrl('/explore/?tab=activities',siteLanguage()))?>"><?=e(sxT('explore_nav'))?></a></section><?php require ROOT.'/views/experiences.php'; ?>

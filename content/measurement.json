@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "measurement_id": "",
+  "reddit_enabled": false,
+  "reddit_pixel_id": "",
+  "consent_mode": "opt_in",
+  "version": 1,
+  "consent_days": 180
+}

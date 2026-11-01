@@ -1,0 +1,11 @@
+/.env
+/vendor/
+/storage/*
+!/storage/.gitkeep
+/output/
+/tmp/
+*.sqlite*
+*.log
+__pycache__/
+/.venv/
+/.venv/

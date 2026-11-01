@@ -1,0 +1,287 @@
+{
+  "version": 1,
+  "groups": {
+    "nature_outdoors": {
+      "label": [
+        "טבע ובחוץ",
+        "Nature & outdoors",
+        "Природа и отдых на открытом воздухе"
+      ],
+      "children": {
+        "nature_outdoors.parks_gardens": [
+          "פארקים וגנים",
+          "Parks & gardens",
+          "Парки и сады"
+        ],
+        "nature_outdoors.hiking_trails": [
+          "מסלולי הליכה",
+          "Hiking trails",
+          "Пешие маршруты"
+        ],
+        "nature_outdoors.viewpoints": [
+          "נקודות תצפית",
+          "Viewpoints",
+          "Смотровые площадки"
+        ],
+        "nature_outdoors.wildlife_birdwatching": [
+          "חיות בר וצפרות",
+          "Wildlife & birdwatching",
+          "Дикие животные и наблюдение за птицами"
+        ],
+        "nature_outdoors.natural_landmarks": [
+          "אתרי טבע",
+          "Natural landmarks",
+          "Природные достопримечательности"
+        ]
+      }
+    },
+    "food_drink": {
+      "label": [
+        "אוכל ושתייה",
+        "Food & drink",
+        "Еда и напитки"
+      ],
+      "children": {
+        "food_drink.restaurants_cafes": [
+          "מסעדות ובתי קפה",
+          "Restaurants & cafés",
+          "Рестораны и кафе"
+        ],
+        "food_drink.food_tours": [
+          "סיורי אוכל",
+          "Food tours",
+          "Гастрономические туры"
+        ],
+        "food_drink.cooking_workshops": [
+          "סדנאות בישול",
+          "Cooking workshops",
+          "Кулинарные мастер-классы"
+        ],
+        "food_drink.wine_spirits_tastings": [
+          "טעימות יין ומשקאות",
+          "Wine & spirits tastings",
+          "Дегустации вина и крепких напитков"
+        ],
+        "food_drink.local_food_stalls": [
+          "דוכני אוכל מקומי",
+          "Local food stalls",
+          "Киоски с местной едой"
+        ]
+      }
+    },
+    "water_coast": {
+      "label": [
+        "מים וחופים",
+        "Water & coast",
+        "Вода и побережье"
+      ],
+      "children": {
+        "water_coast.beaches_swimming": [
+          "חופים ורחצה",
+          "Beaches & swimming",
+          "Пляжи и купание"
+        ],
+        "water_coast.boat_cruises": [
+          "שייט וטיולי סירה",
+          "Boat trips & cruises",
+          "Прогулки на лодках и круизы"
+        ],
+        "water_coast.snorkeling_diving": [
+          "שנורקלינג וצלילה",
+          "Snorkeling & diving",
+          "Сноркелинг и дайвинг"
+        ],
+        "water_coast.paddling_water_sports": [
+          "חתירה וספורט מים",
+          "Paddling & water sports",
+          "Гребля и водный спорт"
+        ],
+        "water_coast.waterfront_walks": [
+          "טיילות והליכה לצד המים",
+          "Waterfront walks",
+          "Набережные и прогулки у воды"
+        ]
+      }
+    },
+    "city_culture": {
+      "label": [
+        "עיר ותרבות",
+        "City & culture",
+        "Город и культура"
+      ],
+      "children": {
+        "city_culture.historic_sites": [
+          "אתרים היסטוריים",
+          "Historic sites",
+          "Исторические места"
+        ],
+        "city_culture.museums_galleries": [
+          "מוזיאונים וגלריות",
+          "Museums & galleries",
+          "Музеи и галереи"
+        ],
+        "city_culture.neighborhoods_architecture": [
+          "שכונות ואדריכלות",
+          "Neighborhoods & architecture",
+          "Районы и архитектура"
+        ],
+        "city_culture.city_walks_tours": [
+          "מסלולים וסיורים עירוניים",
+          "City walks & tours",
+          "Городские прогулки и экскурсии"
+        ],
+        "city_culture.local_arts_workshops": [
+          "אמנות וסדנאות מקומיות",
+          "Local arts & workshops",
+          "Местное искусство и мастер-классы"
+        ],
+        "city_culture.theme_amusement_parks": [
+          "פארקי שעשועים ונושא",
+          "Theme & amusement parks",
+          "Тематические парки и парки аттракционов"
+        ]
+      }
+    },
+    "adventure_active": {
+      "label": [
+        "הרפתקאות וספורט",
+        "Adventure & active",
+        "Приключения и активный отдых"
+      ],
+      "children": {
+        "adventure_active.cycling": [
+          "רכיבה על אופניים",
+          "Cycling",
+          "Велопрогулки"
+        ],
+        "adventure_active.climbing_canyoning": [
+          "טיפוס וקניונינג",
+          "Climbing & canyoning",
+          "Скалолазание и каньонинг"
+        ],
+        "adventure_active.airborne_activities": [
+          "פעילויות באוויר",
+          "Airborne activities",
+          "Воздушные приключения"
+        ],
+        "adventure_active.offroad_rides": [
+          "טיולי שטח ממונעים",
+          "Off-road rides",
+          "Поездки по бездорожью"
+        ],
+        "adventure_active.sports_games": [
+          "ספורט ומשחקים פעילים",
+          "Sports & active games",
+          "Спорт и активные игры"
+        ],
+        "adventure_active.snow_sports": [
+          "סקי וספורט שלג",
+          "Skiing & snow sports",
+          "Лыжи и зимние виды спорта"
+        ]
+      }
+    },
+    "shows_nightlife": {
+      "label": [
+        "מופעים וחיי לילה",
+        "Shows & nightlife",
+        "Шоу и ночная жизнь"
+      ],
+      "children": {
+        "shows_nightlife.live_music": [
+          "מוזיקה חיה",
+          "Live music",
+          "Живая музыка"
+        ],
+        "shows_nightlife.theater_dance": [
+          "תיאטרון ומחול",
+          "Theater & dance",
+          "Театр и танец"
+        ],
+        "shows_nightlife.comedy_cabaret": [
+          "קומדיה וקברט",
+          "Comedy & cabaret",
+          "Комедия и кабаре"
+        ],
+        "shows_nightlife.bars_clubs": [
+          "ברים ומועדונים",
+          "Bars & clubs",
+          "Бары и клубы"
+        ],
+        "shows_nightlife.nightlife_tours": [
+          "סיורי חיי לילה",
+          "Nightlife tours",
+          "Туры по ночной жизни"
+        ]
+      }
+    },
+    "relaxation_wellness": {
+      "label": [
+        "ספא ורוגע",
+        "Spas & relaxation",
+        "Спа и отдых"
+      ],
+      "children": {
+        "relaxation_wellness.spas_treatments": [
+          "ספא וטיפולים",
+          "Spas & treatments",
+          "Спа и процедуры"
+        ],
+        "relaxation_wellness.thermal_baths": [
+          "מרחצאות ומעיינות חמים",
+          "Thermal baths & hot springs",
+          "Термальные купальни и горячие источники"
+        ],
+        "relaxation_wellness.yoga_meditation": [
+          "יוגה ומדיטציה",
+          "Yoga & meditation",
+          "Йога и медитация"
+        ],
+        "relaxation_wellness.saunas_hammams": [
+          "סאונות וחמאם",
+          "Saunas & hammams",
+          "Сауны и хаммамы"
+        ],
+        "relaxation_wellness.wellness_retreats": [
+          "ריטריטים וסדנאות רוגע",
+          "Wellness retreats & workshops",
+          "Оздоровительные ретриты и занятия"
+        ]
+      }
+    },
+    "markets_shopping": {
+      "label": [
+        "שווקים וקניות",
+        "Markets & shopping",
+        "Рынки и покупки"
+      ],
+      "children": {
+        "markets_shopping.street_flea_markets": [
+          "שווקים ושווקי פשפשים",
+          "Street & flea markets",
+          "Уличные и блошиные рынки"
+        ],
+        "markets_shopping.food_markets": [
+          "שוקי אוכל",
+          "Food markets",
+          "Продуктовые рынки"
+        ],
+        "markets_shopping.crafts_souvenirs": [
+          "מלאכת יד ומזכרות",
+          "Crafts & souvenirs",
+          "Ремёсла и сувениры"
+        ],
+        "markets_shopping.shopping_streets_malls": [
+          "רחובות קניות וקניונים",
+          "Shopping streets & malls",
+          "Торговые улицы и центры"
+        ],
+        "markets_shopping.shopping_tours": [
+          "סיורי קניות",
+          "Shopping tours",
+          "Шопинг-туры"
+        ]
+      }
+    }
+  }
+}

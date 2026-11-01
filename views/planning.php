@@ -1,0 +1,3 @@
+<?php $title=languagePhrase('מדריכים לתכנון','Planning guides','Планирование');?>
+<section class="page-heading compact-heading"><h1><?=e($title)?></h1><p><?=e(languagePhrase('תשובות שימושיות לפני הנסיעה: לינה, תחבורה, ציוד ותקציב.','Practical answers before you travel: accommodation, transport, equipment and budget.','Практические советы: жильё, транспорт, багаж и бюджет.'))?></p></section>
+<div class="filter-bar"><?php foreach(categories() as $slug=>$label):?><a href="/<?=e($slug)?>/"><?=e($label)?></a><?php endforeach?><a href="/tools/">כלי תכנון</a></div><div class="cards"><?php foreach($articles as $a)if(empty($a['_experience']))card($a);?></div>

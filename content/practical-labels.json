@@ -1,0 +1,62 @@
+{
+  "he": {
+    "title": "מידע לתכנון הביקור",
+    "address": "כתובת",
+    "hours": "שעות פתיחה",
+    "directions": "איך מגיעים",
+    "map": "מפה",
+    "official": "האתר הרשמי",
+    "close": "סגירה",
+    "verify": "בדקו לפני היציאה: שעות, כניסה ודרכי הגעה עשויות להשתנות.",
+    "official_note": "לבירור שעות פתיחה, שעות קבלה ותנאי ביקור עדכניים:",
+    "map_note": "המפה מוצגת לפי המיקום השמור. בדקו את הכניסה המדויקת לפני ההגעה.",
+    "load_map": "הצגת המפה",
+    "unavailable": "טרם הוזן מידע בשפה זו.",
+    "checked": "תאריך בדיקת המקור"
+  },
+  "en": {
+    "title": "Plan your visit",
+    "address": "Address",
+    "hours": "Opening hours",
+    "directions": "Getting there",
+    "map": "Map",
+    "official": "Official website",
+    "close": "Close",
+    "verify": "Check before visiting: hours, admission and access may change.",
+    "official_note": "Check current opening hours, visiting times and admission details:",
+    "map_note": "The map uses the saved location. Check the exact entrance before visiting.",
+    "load_map": "Show map",
+    "unavailable": "Information has not yet been entered in this language.",
+    "checked": "Source check date"
+  },
+  "ru": {
+    "title": "Планирование посещения",
+    "address": "Адрес",
+    "hours": "Часы работы",
+    "directions": "Как добраться",
+    "map": "Карта",
+    "official": "Официальный сайт",
+    "close": "Закрыть",
+    "verify": "Проверьте перед визитом: часы работы, условия входа и доступ могут измениться.",
+    "official_note": "Уточните актуальные часы работы, время приёма посетителей и условия посещения:",
+    "map_note": "Карта показывает сохранённое местоположение. Уточните точный вход перед посещением.",
+    "load_map": "Показать карту",
+    "unavailable": "Информация на этом языке пока не добавлена.",
+    "checked": "Дата проверки источника"
+  },
+  "ka": {
+    "title": "დაგეგმეთ ვიზიტი",
+    "address": "მისამართი",
+    "hours": "სამუშაო საათები",
+    "directions": "როგორ მივიდეთ",
+    "map": "რუკა",
+    "official": "ოფიციალური საიტი",
+    "close": "დახურვა",
+    "verify": "გასვლამდე გადაამოწმეთ: სამუშაო საათები, შესვლის პირობები და მისასვლელი გზები შეიძლება შეიცვალოს.",
+    "official_note": "მიმდინარე სამუშაო საათების, მიღების დროისა და ვიზიტის პირობების გასარკვევად:",
+    "map_note": "რუკა შენახული მდებარეობის მიხედვითაა ნაჩვენები. მისვლამდე ზუსტი შესასვლელი გადაამოწმეთ.",
+    "load_map": "რუკის ჩვენება",
+    "unavailable": "ამ ენაზე ინფორმაცია ჯერ არ არის დამატებული.",
+    "checked": "წყაროს შემოწმების თარიღი"
+  }
+}

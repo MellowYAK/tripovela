@@ -1,0 +1,666 @@
+{
+  "en": {
+    "title": "Terms of use",
+    "intro": "Welcome to Tripovela. Please read and agree to these terms before continuing.",
+    "agree": "I agree — continue",
+    "decline": "I do not agree",
+    "blocked": "You have not accepted the terms. Browsing remains unavailable. You may read the policies below, reconsider, or close this tab.",
+    "privacy": "Privacy policy",
+    "retention": "Data storage",
+    "accessibility": "Accessibility",
+    "choose": "Language",
+    "back": "Back to the website",
+    "sections": [
+      [
+        "About the service — plan your activities",
+        "Tripovela helps you choose what to do on holiday and combine activities that suit you. Browse by destination, activity type or interests, read guides and compare options. For example, when planning a trip to Georgia, you might consider skiing, a show or a nature activity and check how they fit your itinerary, season and preferences. This illustrates the planning process; it does not promise that every destination or activity is available on this site. We provide information and tools for independent choices, not travel agency or booking services. The website operates as Tripovela at tripovela.com. Contact: contact@example.com."
+      ],
+      [
+        "Information and your decisions",
+        "Content combines editorial guidance and information obtained from external sources, including supplier APIs. Articles, descriptions, images, dates, availability and prices may contain errors, omissions or outdated information. Prices may be cached for up to a week; a displayed update time is not a guarantee of availability or a final quote. Verify the current details, total cost, restrictions, accessibility, safety requirements and cancellation terms with the supplier before acting."
+      ],
+      [
+        "Prices, dates and advertising",
+        "Information on the site and in Tripovela advertising is intended to help you compare options; it is not a binding booking offer from us. A displayed price may be a starting price, depend on a particular party size or use currency conversion and cached data. Dates, availability, taxes, fees and extras may change the total. Check and approve the price and terms shown by the supplier before paying. Advertising does not guarantee continued availability. These qualifications do not permit misleading advertising or override our legal obligations."
+      ],
+      [
+        "Third-party services and corrections",
+        "We do not control supplier performance, itinerary changes, cancellations, weather or failures of external systems. To the extent permitted by law, we do not assume a third-party supplier’s independent obligations or liability for indirect loss arising from its services. This does not transfer responsibility that the law places on us. To report an error or content affecting your rights, send the page address and a description to contact@example.com so we can investigate and address it."
+      ],
+      [
+        "Responsibility",
+        "You choose whether to travel, book or rely on a guide and remain responsible for checking suitability for your circumstances. Our content is general information, not a personal recommendation or a guarantee of an outcome. To the extent permitted by applicable law, Tripovela is not liable for losses arising from reliance on incomplete or inaccurate information or for third-party services. Nothing in these terms excludes liability or consumer rights that cannot legally be excluded."
+      ],
+      [
+        "Third-party purchases and affiliate links",
+        "Bookings and payments take place on Viator or the relevant third-party supplier website, under its terms and privacy policy. That party handles the booking, fulfilment, changes, refunds and complaints. Tripovela may earn a commission on qualifying affiliate purchases at no extra cost to you. An outbound click is not proof of a purchase or confirmed commission."
+      ],
+      [
+        "Privacy and measurement",
+        "Cookies and preferences remember the site language and acceptance of terms; reading settings and saved guides stay in your browser to make return visits easier. We do not ask visitors for payment or booking details, and the site has no system receiving details of bookings you make on Viator or other third-party sites, including purchases through affiliate links. An outbound click does not tell us that a purchase occurred. However, usage and attribution records are stored as explained in the privacy policy, and an email you choose to send includes the details you provide. This does not mean that no information is processed. We use essential session cookies, a language preference and a cookie remembering the accepted terms version for one year. Internal measurement can record time, page, language, referring domain, campaign/ad labels, REF/PARAM and clicks, including outbound affiliate clicks. Do not put personal or sensitive information in tracking labels. Reading or accepting these terms does not authorize third-party advertising cookies; any such consent must be requested separately when required. See the separate privacy and data storage policies."
+      ],
+      [
+        "Digital tools and artificial intelligence",
+        "The site may use artificial intelligence tools to make the service easier to use, present information and offer solutions and services for planning activities. Tools assisting with choices and comparisons may also be added in future; this does not mean such a service is already available on every page. Some content may be drafted, edited or translated with these tools. AI tools, human sources and supplier APIs can produce incorrect, imprecise or outdated information. Publication does not establish that every detail has been verified. Before a material decision, journey or purchase, verify details with the supplier or relevant official authority. The choice remains yours."
+      ],
+      [
+        "Use, updates and contact",
+        "Use the website lawfully; do not interfere with its operation or misuse its content. Rights in text and images remain with their owners and stated licences apply. Material changes to these terms require renewed acceptance. You may stop using the site at any time or contact contact@example.com about errors, privacy or accessibility. Last updated: 1 October 2026."
+      ]
+    ],
+    "privacy_body": [
+      "We use an internal random visit identifier to connect page views, engagement and clicks during a visit. Reports can include the time, landing page, language, referring domain when available, source, campaign, ad, REF/PARAM, provider and button placement. These records do not establish your identity, a purchase or a commission. Server and security logs may contain technical connection information such as IP addresses.",
+      "Essential cookies support sessions and form security. Language and terms acceptance preferences last up to one year. Your saved trip notebook and accessibility preferences are kept in this browser; clearing browser data removes them. Calculator inputs are used to produce the result, not stored as article analytics. Do not enter payment details or sensitive traveller data into these tools.",
+      "When you follow an affiliate link, the provider receives the request and affiliate campaign identifiers. Its own privacy and cookie policies apply. We do not control its processing. Contact contact@example.com for questions or requests about access, correction or deletion, subject to applicable law and verification where needed.",
+      "Cookies and preferences remember the site language and acceptance of terms; reading settings and saved guides stay in your browser to make return visits easier. We do not ask visitors for payment or booking details, and the site has no system receiving details of bookings you make on Viator or other third-party sites, including purchases through affiliate links. An outbound click does not tell us that a purchase occurred. However, usage and attribution records are stored as explained in the privacy policy, and an email you choose to send includes the details you provide. This does not mean that no information is processed.",
+      "The travel community stores your public username, password and recovery-code hashes, trips you choose to save to your account, place suggestions, photos, ratings and reports on the server. Account saves are private by default. Publishing a trip exposes your username, destination, day structure and places; private notes, exact travel dates and booking marks are excluded. New place submissions and their photos are reviewed before publication. Images are reprocessed to remove EXIF metadata. These records are kept for service operation and moderation; automatic deletion has not yet been implemented. You can unpublish a trip from your account and contact us for other requests. Clearing browser data does not delete account records.",
+      "A direct share link makes its itinerary and included photos visible to anyone who receives the link, even before moderator review. It is absent from the community directory and marked noindex; this does not restrict access for link recipients. Community-directory and place-search listings require moderator approval. You can revoke sharing from your account."
+    ],
+    "retention_body": [
+      "Language and accepted-terms cookies expire after one year. Session attribution and visit grouping use an approximately 30-minute inactivity window; this does not mean the associated report records are deleted after 30 minutes.",
+      "Saved guides and accessibility settings remain in local browser storage until you reset them or clear browser data. Internal historical reports and security records are retained for operation, measurement and security; a fixed automatic deletion period has not yet been implemented. Backups may also retain earlier records. Contact contact@example.com to request review or deletion where applicable."
+    ],
+    "access_body": [
+      "The site provides keyboard navigation, visible focus, a skip-to-content link, labelled controls and layouts for right-to-left and left-to-right reading. The accessibility panel lets you enlarge text, increase contrast, underline links and reduce motion. Browser zoom remains available.",
+      "We continue to test and improve accessibility. This page is not certification of full compliance; third-party booking sites are outside our control. If you encounter a barrier, email contact@example.com with the page address and a description; you may also specify your browser or assistive technology. Please do not send sensitive medical information."
+    ],
+    "a11y": "Reading options",
+    "large": "Larger text",
+    "contrast": "High contrast",
+    "links": "Underline links",
+    "motion": "Reduce motion",
+    "reset": "Reset options",
+    "service_intro": [
+      {
+        "heading": true,
+        "text": "Tripovela — your trip starts with what you want to experience"
+      },
+      {
+        "heading": false,
+        "text": "Sometimes we know exactly where we are flying, but not yet what we will do when we arrive. The flight is booked, perhaps the hotel too, yet the questions that turn a destination into a holiday remain: what should we see? Which activities suit us? What can we do with the children? Should we book a tour, explore independently or leave time to discover things along the way?"
+      },
+      {
+        "heading": false,
+        "text": "Tripovela was built around these questions. Our aim is to help you discover what you can do at your chosen destination, understand the options and bring them together into a trip that fits your interests, available time, budget and preferred pace."
+      },
+      {
+        "heading": false,
+        "text": "We believe good planning starts with understanding the holiday you want. Some people seek nature and adventure, others want local food, shows and culture, and some prefer one activity a day with plenty of free time. Even in the same destination, two people can create entirely different trips. Tripovela helps you find options that fit your trip and understand the differences between them."
+      },
+      {
+        "heading": true,
+        "text": "From your chosen destination to experiences worth remembering"
+      },
+      {
+        "heading": false,
+        "text": "On Tripovela, you will find guides and content that turn ideas into practical decisions: how to divide your time in a city, which area suits your accommodation base, what to check before choosing an activity and how to fit experiences into an itinerary."
+      },
+      {
+        "heading": false,
+        "text": "You can start by asking “What can we do in Prague?” and move towards choosing a tour, a cruise or a family activity. Or start with something you want to do — ski, taste local food, watch a show or spend a day in nature — and see how it fits your destination and travel plans."
+      },
+      {
+        "heading": false,
+        "text": "We aim to present information that helps you choose: what an experience includes, how much time it takes, where it happens, how to get there and what to ask before booking. A beautiful picture can inspire a trip; the details around it help you decide whether it is right for you."
+      },
+      {
+        "heading": true,
+        "text": "Room for things you do not need to book"
+      },
+      {
+        "heading": false,
+        "text": "A good trip is made up of different kinds of moments. A guided tour can add depth to a visit, but an independent walk, a viewpoint, a local market, a park or a free afternoon can be just as meaningful."
+      },
+      {
+        "heading": false,
+        "text": "That is why Tripovela’s vision combines paid experiences, places to explore independently and options that do not require a purchase. Some options may lead to booking with a commercial partner, others to an official website or an external information source. The shared goal is to help you understand what you can do and how to take the next step."
+      },
+      {
+        "heading": false,
+        "text": "We want the site to be useful whether you have already booked everything you need, are still choosing activities or have arrived and simply want a good idea for today."
+      },
+      {
+        "heading": true,
+        "text": "The trip remains yours"
+      },
+      {
+        "heading": false,
+        "text": "We are developing Tripovela to connect discovery, choice and planning in a convenient way. Our direction is to help travellers collect ideas in one place, return to them and build a clear personal plan. Saving and planning tools are available according to the options shown on the site, with additional capabilities to be introduced gradually."
+      },
+      {
+        "heading": false,
+        "text": "For us, a good plan should leave room for change. You can get excited about an activity and add it later, drop an overfilled day or decide you want something different tomorrow. We want to help you make decisions while keeping the freedom to enjoy your trip in your own way."
+      },
+      {
+        "heading": true,
+        "text": "Information, prices and bookings"
+      },
+      {
+        "heading": false,
+        "text": "The site combines Tripovela guides with information from experience providers and external sources. When supplier prices, ratings, images or activity details are displayed, please also read the explanations and conditions beside the offer."
+      },
+      {
+        "heading": false,
+        "text": "Prices, opening hours, availability and what a service includes may change. A starting price is not necessarily the price for your date, option or group. Before purchasing or setting out for an activity, check the current details with the service provider."
+      },
+      {
+        "heading": false,
+        "text": "When you choose to book through a link on the site, booking and payment take place on the supplier’s website or the booking platform you are directed to, such as Viator. There you can check the final price, availability, cancellation policy and binding booking details. Saving an idea or adding an activity to a plan on our site is not a booking or a reservation."
+      },
+      {
+        "heading": false,
+        "text": "Some links are affiliate links through which we may earn commission on qualifying bookings. This is part of the business model that allows us to develop Tripovela and expand its content and services. Alongside booking options, there is also room for information and ideas that earn no commission."
+      },
+      {
+        "heading": true,
+        "text": "Know what you can do. Choose what suits you."
+      },
+      {
+        "heading": false,
+        "text": "We want you to leave Tripovela with greater clarity: ideas that excite you, a better understanding of the options and a straightforward way to continue planning or book."
+      },
+      {
+        "heading": false,
+        "text": "Whether you plan months ahead or are already at your destination looking for something to do tomorrow, Tripovela is here to help connect the place you have reached with the experiences you want to bring home."
+      }
+    ]
+  },
+  "he": {
+    "title": "תנאי שימוש באתר",
+    "intro": "ברוכים הבאים ל־Tripovela. קראו ואשרו את תנאי השימוש כדי להמשיך לגלוש.",
+    "agree": "אני מסכים/ה — המשך לאתר",
+    "decline": "אינני מסכים/ה",
+    "blocked": "התנאים לא אושרו ולכן הגלישה אינה זמינה. אפשר לקרוא את המדיניות, לשנות את הבחירה או לסגור את הלשונית.",
+    "privacy": "מדיניות פרטיות",
+    "retention": "שמירת מידע",
+    "accessibility": "נגישות",
+    "choose": "שפה",
+    "back": "חזרה לאתר",
+    "sections": [
+      [
+        "על השירות — מתכננים את הבילוי שלכם",
+        "Tripovela נועד לעזור לכם לבחור מה לעשות בחופשה ולשלב פעילויות שמתאימות לכם. אפשר לחפש לפי יעד או לפי סוג בילוי ותחומי עניין, לקרוא מדריכים ולהשוות אפשרויות. לדוגמה, כשמתכננים טיול לגאורגיה, אפשר לחשוב על שילוב של סקי, הופעה או פעילות טבע ולבדוק מה מתאים למסלול, לעונה ולהעדפות שלכם. זו דוגמה לאופן התכנון, ולא הבטחה שכל יעד או פעילות זמינים באתר. האתר מספק מידע וכלים לבחירה עצמאית; הוא אינו סוכנות נסיעות ואינו מבצע הזמנות. האתר מופעל בשם Tripovela בכתובת tripovela.com. לפנייה: contact@example.com."
+      ],
+      [
+        "המידע וההחלטות שלכם",
+        "התוכן משלב מידע מערכתי ומידע ממקורות חיצוניים, לרבות ממשקי ספקים. ייתכנו טעויות, חוסרים ואי־התאמות במאמרים, בתיאורים, בתמונות, בתאריכים, בזמינות ובמחירים. מחירים עשויים להישמר במטמון עד שבוע; מועד עדכון מוצג אינו הבטחת זמינות או הצעת מחיר סופית. לפני החלטה יש לבדוק אצל הספק את הפרטים, העלות הכוללת, המגבלות, ההתאמה, הנגישות, דרישות הבטיחות ותנאי הביטול העדכניים."
+      ],
+      [
+        "מחירים, תאריכים ופרסומות",
+        "מידע באתר ובפרסומי Tripovela נועד לסייע בבחירה ואינו הצעת הזמנה מחייבת מטעמנו. מחיר מוצג עשוי להיות מחיר התחלתי, להתייחס להרכב נוסעים מסוים או להתבסס על המרת מטבע ומטמון; ייתכנו פערים בשל תאריך, זמינות, מסים, עמלות ותוספות. המחיר והתנאים לאישור הם אלה שיוצגו אצל הספק לפני ביצוע התשלום. אין בפרסום הבטחה שהצעה תישאר זמינה. הסתייגויות אלה אינן מתירות פרסום מטעה ואינן גורעות מחובותינו לפי דין."
+      ],
+      [
+        "שירותי צד שלישי ותיקון טעויות",
+        "אין לנו שליטה על ביצועי ספקים, שינויי מסלול, ביטולים, תנאי מזג אוויר או תקלות במערכות חיצוניות. ככל שהדין מתיר, איננו נוטלים אחריות להתחייבויותיו העצמאיות של ספק צד שלישי או לנזק עקיף הנובע משירותיו. אין בכך העברה של אחריות המוטלת עלינו לפי דין. אם מצאתם טעות או תוכן הפוגע בזכויותיכם, שלחו את כתובת העמוד ותיאור הבעיה ל־contact@example.com כדי שנוכל לבדוק ולטפל."
+      ],
+      [
+        "אחריות",
+        "ההחלטה לנסוע, לרכוש או להסתמך על מדריך היא שלכם, ובאחריותכם לבדוק התאמה לנסיבותיכם. התוכן הוא מידע כללי ואינו ייעוץ אישי או הבטחה לתוצאה. ככל שהדין מתיר, Tripovela אינו אחראי לנזק הנובע מהסתמכות על מידע חסר או שגוי או על שירותי צד שלישי. אין בתנאים אלה כדי לשלול אחריות או זכויות צרכניות שלא ניתן לשלול לפי דין."
+      ],
+      [
+        "רכישות וקישורי שותפים",
+        "ההזמנה והתשלום מתבצעים באתר Viator או אצל ספק צד שלישי רלוונטי, לפי תנאיו ומדיניות הפרטיות שלו. אותו גורם מטפל בהזמנה, באספקת השירות, בשינויים, בהחזרים ובתלונות. Tripovela עשוי לקבל עמלה מרכישה מזכה דרך קישור שותפים, ללא תוספת עלות לכם. מעבר לספק אינו הוכחה לרכישה או לעמלה מאושרת."
+      ],
+      [
+        "פרטיות ומדידה",
+        "עוגיות והעדפות מאפשרות לזכור את שפת האתר ואת אישור התנאים; אפשרויות הקריאה והמדריכים ששמרתם נשמרים בדפדפן כדי להקל על שימוש חוזר. איננו מבקשים מהגולשים פרטי תשלום או פרטי הזמנה, ואין באתר מערכת שמקבלת את פרטי ההזמנות שביצעתם ב־Viator או באתרי צד שלישי אחרים, לרבות רכישות דרך קישורי שותפים. לחיצה על קישור אינה אומרת לנו שבוצעה רכישה. עם זאת, נשמרים נתוני שימוש ושיוך כמתואר במדיניות הפרטיות, ופנייה יזומה בדוא״ל כוללת את הפרטים שתבחרו למסור. לכן אין פירוש הדבר שלא מעובד באתר מידע כלשהו. נעשה שימוש בעוגיות הפעלה חיוניות, בהעדפת שפה ובעוגייה השומרת לשנה את גרסת התנאים שאושרה. מדידה פנימית עשויה לרשום זמן, עמוד, שפה, דומיין מפנה, מקור, קמפיין, מודעה, REF/PARAM ולחיצות, לרבות יציאות לספק. אין להזין מידע אישי או רגיש בתוויות מעקב. אישור התקנון אינו אישור לעוגיות פרסום של צד שלישי; הסכמה כזו תתבקש בנפרד כאשר תידרש. פרטים נוספים במדיניות הפרטיות ובמדיניות שמירת המידע."
+      ],
+      [
+        "כלים דיגיטליים ובינה מלאכותית",
+        "האתר עשוי להשתמש בכלי בינה מלאכותית כדי להקל על המשתמש, להנגיש מידע ולהציע פתרונות ושירותים לתכנון הבילוי. בעתיד עשויים להתווסף גם כלי עזרה בבחירה ובהשוואת אפשרויות; אין בכך טענה ששירות כזה כבר זמין בכל עמוד. חלק מהתכנים עשויים להיכתב, להיערך או להיות מתורגמים בסיוע כלים אלה. כלי בינה מלאכותית, מקורות אנושיים וממשקי ספקים עלולים להפיק מידע שגוי, לא מדויק או מיושן. פרסום מאמר אינו אישור שכל פרט בו אומת. לפני החלטה מהותית, נסיעה או רכישה יש לאמת את הפרטים מול הספק או הגורם הרשמי המתאים. הבחירה נשארת בידיכם."
+      ],
+      [
+        "שימוש, עדכונים וקשר",
+        "יש להשתמש באתר כדין, ללא פגיעה בפעולתו או שימוש לרעה בתכניו. הזכויות בתוכן ובתמונות שייכות לבעליהן והרישיונות המצוינים חלים עליהן. שינוי מהותי בתנאים יחייב אישור מחודש. ניתן להפסיק להשתמש באתר בכל עת ולפנות ל־contact@example.com בנוגע לתיקונים, פרטיות או נגישות. עדכון אחרון: 1 באוקטובר 2026."
+      ]
+    ],
+    "privacy_body": [
+      "מזהה ביקור אקראי פנימי מקשר בין צפיות, פעילות ולחיצות במהלך ביקור. הדוחות עשויים לכלול זמן, דף כניסה, שפה, דומיין מפנה כאשר זמין, מקור, קמפיין, מודעה, REF/PARAM, ספק ומיקום הכפתור. הרשומות אינן מוכיחות זהות אדם, רכישה או עמלה. יומני שרת ואבטחה עשויים לכלול מידע טכני כגון כתובת IP.",
+      "עוגיות חיוניות משמשות להפעלה ולאבטחת טפסים. בחירת שפה ואישור תנאים נשמרים עד שנה. מחברת הטיול והעדפות הנגישות נשמרות בדפדפן; ניקוי הנתונים מוחק אותן. הקלט למחשבונים משמש להפקת תוצאה ולא נשמר כנתוני מדידת מאמרים. אין להזין בכלים פרטי תשלום או פרטי נוסעים רגישים.",
+      "מעבר בקישור שותפים מעביר בקשה ומזהי קמפיין לספק. באתרו חלות מדיניות הפרטיות והעוגיות שלו; אין לנו שליטה בעיבוד המידע שלו. לפניות ובקשות לעיון, תיקון או מחיקה, בכפוף לדין ולאימות לפי הצורך: contact@example.com.",
+      "עוגיות והעדפות מאפשרות לזכור את שפת האתר ואת אישור התנאים; אפשרויות הקריאה והמדריכים ששמרתם נשמרים בדפדפן כדי להקל על שימוש חוזר. איננו מבקשים מהגולשים פרטי תשלום או פרטי הזמנה, ואין באתר מערכת שמקבלת את פרטי ההזמנות שביצעתם ב־Viator או באתרי צד שלישי אחרים, לרבות רכישות דרך קישורי שותפים. לחיצה על קישור אינה אומרת לנו שבוצעה רכישה. עם זאת, נשמרים נתוני שימוש ושיוך כמתואר במדיניות הפרטיות, ופנייה יזומה בדוא״ל כוללת את הפרטים שתבחרו למסור. לכן אין פירוש הדבר שלא מעובד באתר מידע כלשהו.",
+      "בקהילת המטיילים נשמרים בשרת שם המשתמש הציבורי, גיבובים של הסיסמה וקוד השחזור, טיולים שבחרתם לשמור בחשבון, הצעות למקומות, תמונות, דירוגים ודיווחים. שמירה בחשבון היא פרטית כברירת מחדל. פרסום טיול חושף את שם המשתמש, היעד, חלוקת הימים והמקומות; הערות פרטיות, תאריכים מדויקים וסימוני הזמנה אינם נכללים. הצעות חדשות ותמונותיהן נבדקות לפני פרסום. קבצי התמונות מעובדים להסרת נתוני EXIF. מידע זה נשמר לצורך הפעלת השירות והבקרה; טרם נקבעה לו מחיקה אוטומטית. ניתן לבטל פרסום טיול מתוך החשבון ולפנות לכתובת הקשר לבקשות נוספות. ניקוי הדפדפן אינו מוחק מידע שנשמר בחשבון.",
+      "שיתוף בקישור ישיר חושף את מסלול הטיול והתמונות שנכללו בו לכל מי שמקבל את הקישור, גם לפני בדיקת מנהל. הקישור אינו מופיע ברשימת הקהילה ומסומן לאי־אינדוקס; זו אינה הגבלת גישה למקבלי הקישור. הופעה ברשימת הקהילה או בחיפוש המקומות דורשת אישור מנהל. ניתן לבטל שיתוף מתוך החשבון."
+    ],
+    "retention_body": [
+      "עוגיות השפה ואישור התנאים פגות לאחר שנה. שיוך מקורות וחיבור ביקורים משתמשים בחלון של כ־30 דקות ללא פעילות; אין פירוש הדבר שרשומות הדוחות נמחקות לאחר 30 דקות.",
+      "המדריכים השמורים והעדפות הנגישות נשארים בדפדפן עד לאיפוס או לניקוי הנתונים. דוחות היסטוריים ורשומות אבטחה נשמרים לצורכי תפעול, מדידה ואבטחה; טרם הוגדרה תקופת מחיקה אוטומטית קבועה. גם גיבויים עשויים לכלול נתונים קודמים. לבקשת בדיקה או מחיקה ככל שחלה: contact@example.com."
+    ],
+    "access_body": [
+      "באתר ניווט במקלדת, מיקוד נראה, קישור דילוג לתוכן, תוויות לפקדים ותמיכה בקריאה מימין לשמאל ומשמאל לימין. כלי הנגישות מאפשרים הגדלת טקסט, ניגודיות מוגברת, הדגשת קישורים והפחתת תנועה. ניתן להשתמש גם בהגדלת התצוגה של הדפדפן.",
+      "אנו ממשיכים לבדוק ולשפר את הנגישות. אין בדף זה אישור לעמידה מלאה בכל דרישות הדין או התקן. אתרי ההזמנות החיצוניים אינם בשליטתנו. נתקלתם בקושי? פנו ל־contact@example.com עם כתובת העמוד ותיאור הקושי; אפשר לציין דפדפן או טכנולוגיה מסייעת. אין צורך למסור מידע רפואי רגיש."
+    ],
+    "a11y": "אפשרויות קריאה",
+    "large": "טקסט מוגדל",
+    "contrast": "ניגודיות מוגברת",
+    "links": "קו תחתון לקישורים",
+    "motion": "הפחתת תנועה",
+    "reset": "איפוס אפשרויות",
+    "service_intro": [
+      {
+        "heading": true,
+        "text": "Tripovela — הטיול שלכם מתחיל במה שתרצו לחוות"
+      },
+      {
+        "heading": false,
+        "text": "לפעמים אנחנו יודעים בדיוק לאן אנחנו טסים, אבל עדיין לא יודעים מה נעשה כשנגיע. הטיסה כבר הוזמנה, אולי גם המלון, ובכל זאת נשארות השאלות שהופכות יעד לחופשה: מה כדאי לראות? איזו פעילות מתאימה לנו? מה אפשר לעשות עם הילדים? האם להזמין סיור, לצאת לטייל עצמאית או להשאיר זמן לגלות דברים בדרך?"
+      },
+      {
+        "heading": false,
+        "text": "Tripovela נבנתה סביב השאלות האלה. המטרה שלנו היא לעזור לכם לגלות מה אפשר לעשות ביעד שבחרתם, להבין את האפשרויות ולחבר אותן לטיול שמתאים לכם — לתחומי העניין שלכם, לזמן שעומד לרשותכם, לתקציב ולקצב שבו אתם אוהבים לטייל."
+      },
+      {
+        "heading": false,
+        "text": "אנחנו מאמינים שתכנון טוב מתחיל בהבנת החופשה שאתם רוצים. יש מי שמחפשים טבע והרפתקאות, אחרים רוצים אוכל מקומי, מופעים ותרבות, ויש מי שמעדיפים לשלב פעילות אחת ביום עם הרבה זמן חופשי. גם באותו יעד, שני אנשים יכולים לבנות טיולים שונים לחלוטין. התפקיד של Tripovela הוא לעזור לכם למצוא את האפשרויות שמתאימות לטיול שלכם ולהבין את ההבדלים ביניהן."
+      },
+      {
+        "heading": true,
+        "text": "מהיעד שבחרתם לחוויות שתרצו לזכור"
+      },
+      {
+        "heading": false,
+        "text": "ב־Tripovela תמצאו מדריכים ותוכן שעוזרים להפוך רעיונות להחלטות מעשיות: איך לחלק את הזמן בעיר, איזה אזור מתאים לבסיס הלינה שלכם, מה לבדוק לפני שבוחרים פעילות ואיך לשלב חוויות בתוך המסלול."
+      },
+      {
+        "heading": false,
+        "text": "אפשר להתחיל מהשאלה „מה עושים בפראג?” ולהתקדם לבחירת סיור, שיט או פעילות משפחתית. אפשר גם להתחיל מרצון מסוים — לגלוש, לטעום אוכל מקומי, לצפות במופע או לצאת ליום בטבע — ולבדוק איך הוא משתלב ביעד ובתוכנית הנסיעה שלכם."
+      },
+      {
+        "heading": false,
+        "text": "אנחנו שואפים להציג מידע שעוזר לבחור: מה כוללת החוויה, כמה זמן היא דורשת, היכן היא מתקיימת, איך מגיעים אליה ואילו פרטים כדאי לברר לפני שמזמינים. תמונה יפה יכולה לעורר רצון לצאת לדרך; הפרטים שסביבה עוזרים להבין אם זו באמת הבחירה הנכונה עבורכם."
+      },
+      {
+        "heading": true,
+        "text": "מקום גם לדברים שלא צריך להזמין"
+      },
+      {
+        "heading": false,
+        "text": "טיול טוב מורכב מסוגים שונים של רגעים. סיור מודרך יכול להוסיף עומק לביקור, אבל גם הליכה עצמאית, תצפית, שוק מקומי, פארק או אחר צהריים פנוי יכולים להיות חלק משמעותי מהחופשה."
+      },
+      {
+        "heading": false,
+        "text": "לכן החזון של Tripovela כולל שילוב בין חוויות בתשלום, מקומות לביקור עצמאי ואפשרויות שאינן דורשות רכישה. חלק מהאפשרויות עשויות להוביל להזמנה אצל שותף מסחרי, אחרות לאתר רשמי או למקור מידע חיצוני. המטרה המשותפת היא לעזור לכם להבין מה אפשר לעשות ואיך להתקדם משם."
+      },
+      {
+        "heading": false,
+        "text": "אנחנו רוצים שהאתר יהיה שימושי גם למי שכבר הזמין את כל מה שהיה צריך, גם למי שעדיין בוחר פעילויות וגם למי שמגיע ליעד ופשוט מחפש רעיון טוב להיום."
+      },
+      {
+        "heading": true,
+        "text": "הטיול נשאר שלכם"
+      },
+      {
+        "heading": false,
+        "text": "אנחנו מפתחים את Tripovela מתוך שאיפה ליצור חיבור נוח בין גילוי, בחירה ותכנון. הכיוון שלנו הוא לאפשר למטיילים לרכז רעיונות במקום אחד, לחזור אליהם ולבנות מהם תוכנית אישית וברורה. כלי השמירה והתכנון זמינים בהתאם לאפשרויות המוצגות באתר, ויכולות נוספות יתווספו בהדרגה."
+      },
+      {
+        "heading": false,
+        "text": "מבחינתנו, תוכנית טובה צריכה להשאיר מקום לשינויים. אפשר להתלהב מפעילות ולבחור לשלב אותה בהמשך, לוותר על יום עמוס או להחליט שמחר רוצים משהו אחר. אנחנו רוצים לעזור לכם לקבל החלטות, תוך שמירה על החופש ליהנות מהטיול בדרך שלכם."
+      },
+      {
+        "heading": true,
+        "text": "מידע, מחירים והזמנות"
+      },
+      {
+        "heading": false,
+        "text": "התוכן באתר משלב מדריכים של Tripovela ומידע המתקבל מספקי חוויות וממקורות חיצוניים. כאשר מוצגים מחירים, דירוגים, תמונות או פרטי פעילות של ספק, יש להתייחס גם להבהרות ולתנאים המופיעים לצד ההצעה."
+      },
+      {
+        "heading": false,
+        "text": "מחירים, שעות פעילות, זמינות ותכולת השירות עשויים להשתנות. מחיר התחלתי אינו בהכרח המחיר לתאריך, לאפשרות ולהרכב המשתתפים שלכם. לפני רכישה או יציאה לפעילות, חשוב לבדוק את הפרטים העדכניים אצל הגורם שמספק את השירות."
+      },
+      {
+        "heading": false,
+        "text": "כאשר אתם בוחרים להזמין באמצעות קישור מהאתר, ההזמנה והתשלום מתבצעים באתר הספק או פלטפורמת ההזמנות שאליהם הופניתם, כגון Viator. שם תוכלו לבדוק את המחיר הסופי, הזמינות, תנאי הביטול והפרטים המחייבים של ההזמנה. שמירת רעיון או הוספת פעילות לתוכנית באתר אינן מהוות הזמנה או שמירת מקום."
+      },
+      {
+        "heading": false,
+        "text": "חלק מהקישורים באתר הם קישורי שותפים, שבאמצעותם אנחנו עשויים לקבל עמלה על הזמנות מזכות. זהו חלק מהמודל העסקי שמאפשר לנו לפתח את Tripovela ולהרחיב את התוכן והשירותים שלה. לצד אפשרויות ההזמנה, יש מקום באתר גם למידע ולרעיונות שאין בצדם עמלה."
+      },
+      {
+        "heading": true,
+        "text": "לדעת מה אפשר לעשות. לבחור מה מתאים לכם."
+      },
+      {
+        "heading": false,
+        "text": "אנחנו רוצים שתצאו מ־Tripovela עם יותר בהירות: עם רעיונות שמרגשים אתכם, עם הבנה טובה יותר של האפשרויות ועם דרך פשוטה להמשיך לתכנון או להזמנה."
+      },
+      {
+        "heading": false,
+        "text": "בין שאתם מתכננים חודשים מראש ובין שאתם כבר ביעד ומחפשים מה לעשות מחר, Tripovela כאן כדי לעזור לכם לחבר בין המקום שאליו הגעתם לבין החוויות שתרצו לקחת ממנו הביתה."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Условия использования",
+    "intro": "Добро пожаловать в Tripovela. Прочитайте и примите условия, чтобы продолжить.",
+    "agree": "Принимаю — продолжить",
+    "decline": "Не принимаю",
+    "blocked": "Условия не приняты. Просмотр сайта недоступен. Вы можете прочитать правила, изменить решение или закрыть вкладку.",
+    "privacy": "Конфиденциальность",
+    "retention": "Хранение данных",
+    "accessibility": "Доступность",
+    "choose": "Язык",
+    "back": "Вернуться на сайт",
+    "sections": [
+      [
+        "О сервисе — планируйте свой отдых",
+        "Tripovela помогает выбрать занятия в отпуске и сочетать подходящие вам активности. Можно искать по направлению, виду досуга или интересам, читать путеводители и сравнивать варианты. Например, планируя поездку в Грузию, вы можете рассмотреть лыжи, представление или прогулку на природе и проверить их соответствие маршруту, сезону и предпочтениям. Это пример планирования, а не обещание наличия каждого направления или занятия на сайте. Мы предоставляем информацию и инструменты для самостоятельного выбора, а не услуги турагентства или бронирования. Сайт работает под названием Tripovela по адресу tripovela.com. Контакт: contact@example.com."
+      ],
+      [
+        "Информация и ваши решения",
+        "Материалы объединяют редакционные сведения и данные внешних источников, включая API поставщиков. В статьях, описаниях, изображениях, датах, ценах и наличии возможны ошибки, пропуски и устаревшие сведения. Цены могут храниться в кэше до недели; дата обновления не гарантирует наличие или окончательную стоимость. Перед решением уточните у поставщика актуальные условия, полную цену, ограничения, доступность, требования безопасности и правила отмены."
+      ],
+      [
+        "Цены, даты и реклама",
+        "Информация на сайте и в рекламе Tripovela помогает сравнивать варианты и не является обязательным предложением бронирования от нашего имени. Указанная цена может быть начальной, зависеть от состава группы, пересчёта валюты и кэшированных данных. Дата, наличие, налоги, сборы и дополнительные услуги могут изменить итог. Проверьте и подтвердите цену и условия у поставщика до оплаты. Реклама не гарантирует сохранение наличия. Эти оговорки не разрешают вводящую в заблуждение рекламу и не отменяют наши обязанности по закону."
+      ],
+      [
+        "Сторонние услуги и исправления",
+        "Мы не контролируем работу поставщиков, изменения маршрута, отмены, погоду и сбои внешних систем. В пределах, допускаемых законом, мы не принимаем самостоятельные обязательства стороннего поставщика и ответственность за косвенные потери от его услуг. Это не переносит ответственность, возложенную законом на нас. Об ошибке или нарушении ваших прав сообщите на contact@example.com, указав адрес страницы и описание, чтобы мы могли проверить и принять меры."
+      ],
+      [
+        "Ответственность",
+        "Решение о поездке, покупке или использовании совета принимаете вы; проверка соответствия вашим обстоятельствам остаётся вашей ответственностью. Материалы носят общий информационный характер и не являются персональной рекомендацией или гарантией результата. В пределах, допускаемых применимым законом, Tripovela не отвечает за потери вследствие использования неполных или неверных сведений и за услуги третьих лиц. Эти условия не отменяют ответственность и права потребителя, которые нельзя исключить по закону."
+      ],
+      [
+        "Покупки и партнёрские ссылки",
+        "Бронирование и оплата происходят на Viator или сайте соответствующего стороннего поставщика по его условиям и политике конфиденциальности. Он отвечает за заказ, оказание услуги, изменения, возвраты и претензии. Tripovela может получать комиссию за подходящие партнёрские покупки без дополнительной платы для вас. Переход по ссылке не доказывает покупку или подтверждённую комиссию."
+      ],
+      [
+        "Конфиденциальность и измерение",
+        "Cookies и настройки запоминают язык и принятие условий; параметры чтения и сохранённые путеводители остаются в браузере для удобства повторного использования. Мы не запрашиваем у посетителей платёжные данные или сведения о бронировании. На сайте нет системы получения деталей ваших бронирований на Viator и других сторонних сайтах, в том числе покупок по партнёрским ссылкам. Переход по ссылке не сообщает нам о совершении покупки. При этом сохраняются данные использования и атрибуции согласно политике конфиденциальности, а отправленное вами письмо содержит сведения, которые вы решите сообщить. Это не означает, что информация вообще не обрабатывается. Мы используем необходимые сессионные cookies, настройку языка и cookie принятой версии условий сроком на год. Внутренние отчёты могут содержать время, страницу, язык, домен перехода, источник, кампанию, объявление, REF/PARAM и нажатия, включая переходы к поставщику. Не помещайте личные или чувствительные данные в метки. Принятие условий не означает согласие на сторонние рекламные cookies; такое согласие запрашивается отдельно, когда необходимо. См. отдельные политики конфиденциальности и хранения данных."
+      ],
+      [
+        "Цифровые инструменты и искусственный интеллект",
+        "Сайт может использовать инструменты искусственного интеллекта, чтобы упростить использование, представить информацию и предложить решения и услуги для планирования досуга. В будущем могут появиться помощники для выбора и сравнения вариантов; это не означает, что такой сервис уже доступен на каждой странице. Часть материалов может создаваться, редактироваться или переводиться с помощью этих инструментов. ИИ, человеческие источники и API поставщиков могут давать ошибочные, неточные или устаревшие сведения. Публикация не означает проверку каждой детали. Перед существенным решением, поездкой или покупкой уточните информацию у поставщика или соответствующего официального органа. Выбор остаётся за вами."
+      ],
+      [
+        "Использование, изменения и связь",
+        "Используйте сайт законно, не нарушайте его работу и не злоупотребляйте материалами. Права на тексты и изображения принадлежат их владельцам; действуют указанные лицензии. Существенные изменения условий требуют повторного принятия. Вы можете прекратить использование в любое время. По вопросам ошибок, конфиденциальности и доступности: contact@example.com. Обновлено 1 октября 2026 года."
+      ]
+    ],
+    "privacy_body": [
+      "Случайный внутренний идентификатор связывает просмотры, активность и нажатия в рамках визита. Отчёты могут содержать время, входную страницу, язык, доступный домен перехода, источник, кампанию, объявление, REF/PARAM, поставщика и положение кнопки. Это не подтверждение личности, покупки или комиссии. Журналы сервера и безопасности могут содержать технические сведения, например IP-адреса.",
+      "Необходимые cookies обеспечивают сессию и защиту форм. Выбор языка и принятие условий сохраняются до года. Сохранённые путеводители и настройки доступности остаются в браузере; очистка данных удаляет их. Ввод калькуляторов используется для расчёта, а не сохраняется как аналитика статей. Не вводите платёжные или чувствительные данные путешественников.",
+      "При переходе по партнёрской ссылке поставщик получает запрос и идентификаторы кампании. Действуют его правила конфиденциальности и cookies; мы не управляем обработкой у него. Вопросы и запросы на доступ, исправление или удаление в соответствии с законом и с проверкой при необходимости: contact@example.com.",
+      "Cookies и настройки запоминают язык и принятие условий; параметры чтения и сохранённые путеводители остаются в браузере для удобства повторного использования. Мы не запрашиваем у посетителей платёжные данные или сведения о бронировании. На сайте нет системы получения деталей ваших бронирований на Viator и других сторонних сайтах, в том числе покупок по партнёрским ссылкам. Переход по ссылке не сообщает нам о совершении покупки. При этом сохраняются данные использования и атрибуции согласно политике конфиденциальности, а отправленное вами письмо содержит сведения, которые вы решите сообщить. Это не означает, что информация вообще не обрабатывается.",
+      "Сообщество путешественников хранит на сервере публичное имя пользователя, хеши пароля и кода восстановления, сохранённые в аккаунте поездки, предложения мест, фотографии, оценки и жалобы. По умолчанию сохранённые поездки доступны только владельцу. Публикация открывает имя автора, направление, план по дням и места; личные заметки, точные даты и отметки о бронировании не публикуются. Новые места и фотографии проходят проверку. Изображения обрабатываются с удалением метаданных EXIF. Данные сохраняются для работы сервиса и модерации; автоматическое удаление пока не настроено. Публикацию поездки можно отменить в аккаунте, по другим вопросам — связаться с нами. Очистка браузера не удаляет данные аккаунта.",
+      "Прямая ссылка открывает маршрут и включённые фотографии любому получателю, даже до модерации. Она отсутствует в каталоге сообщества и помечена noindex; это не ограничивает доступ получателей ссылки. Для каталога сообщества и поиска мест требуется одобрение модератора. Общий доступ можно отключить в аккаунте."
+    ],
+    "retention_body": [
+      "Cookies языка и принятия условий истекают через год. Атрибуция и группировка визитов используют период около 30 минут без активности; это не означает удаления отчётов через 30 минут.",
+      "Сохранённые путеводители и настройки доступности остаются в браузере до сброса или очистки данных. Исторические отчёты и записи безопасности хранятся для работы, измерения и защиты; фиксированный срок автоматического удаления пока не внедрён. Резервные копии также могут хранить прежние записи. Для запроса проверки или удаления, где применимо: contact@example.com."
+    ],
+    "access_body": [
+      "На сайте предусмотрены клавиатурная навигация, видимый фокус, переход к содержимому, подписи элементов и поддержка обоих направлений письма. Панель чтения позволяет увеличить текст, усилить контраст, подчеркнуть ссылки и уменьшить движение. Масштабирование браузера также доступно.",
+      "Мы продолжаем проверять и улучшать доступность. Эта страница не является сертификацией полного соответствия закону или стандарту. Сторонние сайты бронирования вне нашего контроля. О проблеме сообщите на contact@example.com, указав адрес страницы и описание; можно добавить браузер или вспомогательную технологию. Не отправляйте чувствительные медицинские сведения."
+    ],
+    "a11y": "Настройки чтения",
+    "large": "Крупный текст",
+    "contrast": "Высокий контраст",
+    "links": "Подчеркнуть ссылки",
+    "motion": "Меньше движения",
+    "reset": "Сбросить настройки",
+    "service_intro": [
+      {
+        "heading": true,
+        "text": "Tripovela — ваше путешествие начинается с того, что вы хотите испытать"
+      },
+      {
+        "heading": false,
+        "text": "Иногда мы точно знаем, куда летим, но ещё не знаем, чем займёмся на месте. Билеты уже куплены, возможно, отель тоже забронирован, но остаются вопросы, превращающие направление в отпуск: что посмотреть? Какие занятия нам подходят? Чем заняться с детьми? Заказать экскурсию, гулять самостоятельно или оставить время для открытий по пути?"
+      },
+      {
+        "heading": false,
+        "text": "Tripovela создана вокруг этих вопросов. Наша цель — помочь вам узнать, чем можно заняться в выбранном месте, разобраться в вариантах и соединить их в путешествие, подходящее вашим интересам, времени, бюджету и любимому темпу."
+      },
+      {
+        "heading": false,
+        "text": "Мы считаем, что хорошее планирование начинается с понимания желаемого отдыха. Одни ищут природу и приключения, другие — местную еду, представления и культуру, а кому-то достаточно одного занятия в день и большого количества свободного времени. Даже в одном месте два человека могут устроить совершенно разные поездки. Задача Tripovela — помочь найти подходящие варианты и понять различия между ними."
+      },
+      {
+        "heading": true,
+        "text": "От выбранного направления к впечатлениям, которые хочется запомнить"
+      },
+      {
+        "heading": false,
+        "text": "В Tripovela вы найдёте путеводители и материалы, помогающие превратить идеи в практические решения: как распределить время в городе, какой район выбрать для проживания, что проверить перед выбором занятия и как включить впечатления в маршрут."
+      },
+      {
+        "heading": false,
+        "text": "Можно начать с вопроса «Чем заняться в Праге?» и перейти к выбору экскурсии, прогулки на корабле или семейного развлечения. Или начать с желания — покататься на лыжах, попробовать местную еду, посмотреть представление или провести день на природе — и проверить, как оно вписывается в направление и план поездки."
+      },
+      {
+        "heading": false,
+        "text": "Мы стремимся давать информацию, помогающую выбрать: что входит в программу, сколько времени она занимает, где проходит, как добраться и что уточнить до бронирования. Красивая фотография может вдохновить на поездку, а подробности рядом помогают понять, подходит ли вам этот вариант."
+      },
+      {
+        "heading": true,
+        "text": "Место и для того, что не нужно бронировать"
+      },
+      {
+        "heading": false,
+        "text": "Хорошая поездка состоит из разных моментов. Экскурсия с гидом может углубить знакомство с местом, но самостоятельная прогулка, смотровая площадка, местный рынок, парк или свободный день тоже могут стать важной частью отпуска."
+      },
+      {
+        "heading": false,
+        "text": "Поэтому в нашем видении Tripovela сочетаются платные впечатления, места для самостоятельного посещения и варианты без покупки. Некоторые варианты могут вести к бронированию у коммерческого партнёра, другие — на официальный сайт или к внешнему источнику информации. Общая цель — помочь понять, что можно сделать и как двигаться дальше."
+      },
+      {
+        "heading": false,
+        "text": "Мы хотим, чтобы сайт был полезен и тем, кто уже всё забронировал, и тем, кто ещё выбирает занятия, и тем, кто приехал и просто ищет хорошую идею на сегодня."
+      },
+      {
+        "heading": true,
+        "text": "Путешествие остаётся вашим"
+      },
+      {
+        "heading": false,
+        "text": "Мы развиваем Tripovela, стремясь удобно соединить поиск идей, выбор и планирование. Мы хотим дать путешественникам возможность собирать идеи в одном месте, возвращаться к ним и составлять понятный личный план. Инструменты сохранения и планирования доступны в соответствии с возможностями, представленными на сайте; новые функции будут добавляться постепенно."
+      },
+      {
+        "heading": false,
+        "text": "На наш взгляд, хороший план должен оставлять место изменениям. Можно заинтересоваться занятием и добавить его позже, отказаться от перегруженного дня или решить, что завтра хочется другого. Мы хотим помогать принимать решения, сохраняя свободу наслаждаться путешествием по-своему."
+      },
+      {
+        "heading": true,
+        "text": "Информация, цены и бронирования"
+      },
+      {
+        "heading": false,
+        "text": "Материалы сайта объединяют путеводители Tripovela и информацию от поставщиков впечатлений и внешних источников. Если показаны цены, оценки, фотографии или сведения о занятии поставщика, учитывайте также пояснения и условия рядом с предложением."
+      },
+      {
+        "heading": false,
+        "text": "Цены, часы работы, наличие и состав услуг могут меняться. Начальная цена не обязательно соответствует вашей дате, выбранному варианту и составу участников. Перед покупкой или посещением уточните актуальные сведения у поставщика услуги."
+      },
+      {
+        "heading": false,
+        "text": "Если вы решите забронировать по ссылке с сайта, бронирование и оплата происходят на сайте поставщика или платформе, куда вы переходите, например Viator. Там можно проверить окончательную цену, наличие, правила отмены и обязательные условия заказа. Сохранение идеи или добавление занятия в план на нашем сайте не является бронированием или резервированием места."
+      },
+      {
+        "heading": false,
+        "text": "Некоторые ссылки являются партнёрскими: по ним мы можем получать комиссию за подходящие бронирования. Это часть бизнес-модели, позволяющей развивать Tripovela и расширять её материалы и услуги. Наряду с вариантами бронирования на сайте есть место информации и идеям, не приносящим комиссию."
+      },
+      {
+        "heading": true,
+        "text": "Узнайте, что можно сделать. Выберите то, что подходит вам."
+      },
+      {
+        "heading": false,
+        "text": "Мы хотим, чтобы после Tripovela у вас стало больше ясности: появились вдохновляющие идеи, лучшее понимание вариантов и простой способ продолжить планирование или перейти к бронированию."
+      },
+      {
+        "heading": false,
+        "text": "Планируете ли вы за несколько месяцев или уже приехали и ищете занятие на завтра, Tripovela помогает соединить место, в котором вы оказались, с впечатлениями, которые захочется увезти домой."
+      }
+    ]
+  },
+  "ka": {
+    "title": "ვებსაიტის გამოყენების პირობები",
+    "intro": "კეთილი იყოს თქვენი მობრძანება Tripovela-ზე. დათვალიერების გასაგრძელებლად წაიკითხეთ და დაეთანხმეთ გამოყენების პირობებს.",
+    "agree": "ვეთანხმები — საიტზე გაგრძელება",
+    "decline": "არ ვეთანხმები",
+    "blocked": "პირობები არ დაგიდასტურებიათ, ამიტომ საიტის დათვალიერება ხელმისაწვდომი არ არის. შეგიძლიათ წაიკითხოთ პოლიტიკა, შეცვალოთ არჩევანი ან დახუროთ ჩანართი.",
+    "privacy": "კონფიდენციალურობის პოლიტიკა",
+    "retention": "ინფორმაციის შენახვა",
+    "accessibility": "ხელმისაწვდომობა",
+    "choose": "ენა",
+    "back": "საიტზე დაბრუნება",
+    "sections": [
+      [
+        "მომსახურების შესახებ — თქვენი დასვენების დაგეგმვა",
+        "Tripovela დაგეხმარებათ გადაწყვიტოთ, რა გააკეთოთ დასვენებისას და როგორ შეუთავსოთ ერთმანეთს თქვენთვის შესაფერისი აქტივობები. შეგიძლიათ მოძებნოთ დანიშნულების ადგილის ან გართობის ტიპისა და ინტერესების მიხედვით, წაიკითხოთ გზამკვლევები და შეადაროთ ვარიანტები. მაგალითად, საქართველოში მოგზაურობის დაგეგმვისას შეგიძლიათ განიხილოთ თხილამურებით სრიალის, წარმოდგენის ან ბუნებაში აქტივობის შეთავსება და შეამოწმოთ, რა შეესაბამება თქვენს მარშრუტს, სეზონსა და სურვილებს. ეს დაგეგმვის მეთოდის მაგალითია და არა გარანტია, რომ საიტზე ყველა მიმართულება თუ აქტივობა ხელმისაწვდომია. საიტი გაწვდით ინფორმაციასა და ინსტრუმენტებს დამოუკიდებელი არჩევანისთვის; ის ტურისტული სააგენტო არ არის და ჯავშნებს არ ახორციელებს. საიტი მოქმედებს Tripovela-ს სახელით მისამართზე tripovela.com. საკონტაქტო მისამართი: contact@example.com."
+      ],
+      [
+        "ინფორმაცია და თქვენი გადაწყვეტილებები",
+        "შინაარსი აერთიანებს რედაქციის ინფორმაციასა და გარე წყაროებიდან მიღებულ ინფორმაციას, მათ შორის მომწოდებლების ინტერფეისებიდან. სტატიებში, აღწერებში, სურათებში, თარიღებში, ხელმისაწვდომობასა და ფასებში შეიძლება იყოს შეცდომები, ხარვეზები და შეუსაბამობები. ფასები ქეშში შესაძლოა ერთ კვირამდე ინახებოდეს; ნაჩვენები განახლების დრო ხელმისაწვდომობის გარანტია ან საბოლოო ფასის შეთავაზება არ არის. გადაწყვეტილების მიღებამდე მომწოდებელთან გადაამოწმეთ დეტალები, სრული ღირებულება, შეზღუდვები, შესაბამისობა, ხელმისაწვდომობა, უსაფრთხოების მოთხოვნები და გაუქმების მოქმედი პირობები."
+      ],
+      [
+        "ფასები, თარიღები და რეკლამები",
+        "საიტზე და Tripovela-ს პუბლიკაციებში მოცემული ინფორმაცია არჩევანის გაკეთებაში დასახმარებლად არის განკუთვნილი და ჩვენი მხრიდან სავალდებულო დაჯავშნის შეთავაზებას არ წარმოადგენს. ნაჩვენები ფასი შეიძლება საწყისი იყოს, მგზავრების კონკრეტულ შემადგენლობას ეხებოდეს ან ვალუტის კონვერტაციასა და ქეშს ეფუძნებოდეს; თარიღის, ხელმისაწვდომობის, გადასახადების, საკომისიოებისა და დანამატების გამო განსხვავებები შესაძლებელია. დასადასტურებელი ფასი და პირობებია ის, რასაც გადახდამდე მომწოდებელი გაჩვენებთ. რეკლამა არ იძლევა გარანტიას, რომ შეთავაზება ხელმისაწვდომი დარჩება. ეს დათქმები შეცდომაში შემყვან რეკლამას არ უშვებს და კანონით დაკისრებულ ვალდებულებებს არ გვიმცირებს."
+      ],
+      [
+        "მესამე მხარის მომსახურება და შეცდომების გასწორება",
+        "ჩვენ ვერ ვაკონტროლებთ მომწოდებლების მუშაობას, მარშრუტის ცვლილებებს, გაუქმებებს, ამინდს ან გარე სისტემების ხარვეზებს. კანონით დაშვებულ ფარგლებში პასუხისმგებლობას არ ვიღებთ მესამე მხარის მომწოდებლის დამოუკიდებელ ვალდებულებებზე ან მისი მომსახურებით გამოწვეულ არაპირდაპირ ზიანზე. ეს არ ნიშნავს კანონით ჩვენზე დაკისრებული პასუხისმგებლობის სხვაზე გადატანას. თუ აღმოაჩინეთ შეცდომა ან თქვენი უფლებების დამრღვევი შინაარსი, გვერდის მისამართი და პრობლემის აღწერა გამოგზავნეთ contact@example.com-ზე, რათა საკითხი შევამოწმოთ და მოვაგვაროთ."
+      ],
+      [
+        "პასუხისმგებლობა",
+        "გამგზავრების, შესყიდვის ან გზამკვლევზე დაყრდნობის გადაწყვეტილება თქვენ გეკუთვნით და თქვენს გარემოებებთან შესაბამისობის შემოწმებაც თქვენი პასუხისმგებლობაა. შინაარსი ზოგადი ინფორმაციაა და არა პირადი რჩევა ან შედეგის გარანტია. კანონით დაშვებულ ფარგლებში Tripovela პასუხს არ აგებს არასრულ ან მცდარ ინფორმაციაზე ან მესამე მხარის მომსახურებაზე დაყრდნობით გამოწვეულ ზიანზე. ეს პირობები ვერ გააუქმებს იმ პასუხისმგებლობასა თუ მომხმარებლის უფლებებს, რომელთა გამორიცხვაც კანონით დაუშვებელია."
+      ],
+      [
+        "შესყიდვები და პარტნიორული ბმულები",
+        "დაჯავშნა და გადახდა ხორციელდება Viator-ის საიტზე ან შესაბამის მესამე მხარის მომწოდებელთან, მისი პირობებისა და კონფიდენციალურობის პოლიტიკის შესაბამისად. ჯავშანს, მომსახურების მიწოდებას, ცვლილებებს, თანხის დაბრუნებასა და საჩივრებს ეს მხარე ამუშავებს. პარტნიორული ბმულით განხორციელებული შესაბამისი შესყიდვისთვის Tripovela-მ შეიძლება საკომისიო მიიღოს, თქვენთვის დამატებითი ხარჯის გარეშე. მომწოდებლის საიტზე გადასვლა შესყიდვის ან დამტკიცებული საკომისიოს მტკიცებულება არ არის."
+      ],
+      [
+        "კონფიდენციალურობა და გაზომვა",
+        "ქუქი-ფაილები და პარამეტრები საიტის ენისა და პირობებზე თანხმობის დამახსოვრების საშუალებას იძლევა; შენახული კითხვის პარამეტრები და გზამკვლევები ბრაუზერში ინახება, რათა განმეორებითი გამოყენება გაგიადვილდეთ. მომხმარებლებს გადახდის ან ჯავშნის მონაცემებს არ ვთხოვთ და საიტზე არ არის სისტემა, რომელიც იღებს Viator-ზე ან სხვა მესამე მხარის საიტებზე თქვენ მიერ განხორციელებული ჯავშნების მონაცემებს, მათ შორის პარტნიორული ბმულებით შესყიდვებისას. ბმულზე დაჭერა არ გვატყობინებს, რომ შესყიდვა განხორციელდა. თუმცა გამოყენებისა და წყაროსთან მიკუთვნების მონაცემები ინახება კონფიდენციალურობის პოლიტიკაში აღწერილი წესით, ხოლო თქვენი ინიციატივით გამოგზავნილი ელფოსტა შეიცავს იმ მონაცემებს, რომელთა მოწოდებასაც თავად აირჩევთ. ამიტომ ეს არ ნიშნავს, რომ საიტზე არანაირი ინფორმაცია არ მუშავდება. გამოიყენება აუცილებელი სესიის ქუქი-ფაილები, ენის პარამეტრი და ქუქი-ფაილი, რომელიც ერთი წლით ინახავს თქვენ მიერ დადასტურებული პირობების ვერსიას. შიდა გაზომვამ შეიძლება აღრიცხოს დრო, გვერდი, ენა, გადმომამისამართებელი დომენი, წყარო, კამპანია, რეკლამა, REF/PARAM და დაწკაპუნებები, მათ შორის მომწოდებელთან გადასვლები. თვალთვალის ნიშნულებში პირადი ან მგრძნობიარე ინფორმაცია არ შეიყვანოთ. წესებზე თანხმობა მესამე მხარის სარეკლამო ქუქი-ფაილებზე თანხმობას არ ნიშნავს; საჭიროების შემთხვევაში ასეთი თანხმობა ცალკე იქნება მოთხოვნილი. დამატებითი დეტალები იხილეთ კონფიდენციალურობისა და ინფორმაციის შენახვის პოლიტიკებში."
+      ],
+      [
+        "ციფრული ინსტრუმენტები და ხელოვნური ინტელექტი",
+        "საიტმა შეიძლება ხელოვნური ინტელექტის ინსტრუმენტები გამოიყენოს მომხმარებლისთვის პროცესის გასამარტივებლად, ინფორმაციის ხელმისაწვდომობის გასაზრდელად და დასვენების დაგეგმვის გადაწყვეტილებებისა და მომსახურებების შესათავაზებლად. მომავალში შეიძლება დაემატოს არჩევანსა და ვარიანტების შედარებაში დამხმარე ინსტრუმენტებიც; ეს არ ნიშნავს, რომ ასეთი მომსახურება უკვე ყველა გვერდზე ხელმისაწვდომია. შინაარსის ნაწილი შეიძლება ამ ინსტრუმენტების დახმარებით იწერებოდეს, რედაქტირდებოდეს ან ითარგმნებოდეს. ხელოვნური ინტელექტის ინსტრუმენტებმა, ადამიანურმა წყაროებმა და მომწოდებლების ინტერფეისებმა შეიძლება მცდარი, არაზუსტი ან მოძველებული ინფორმაცია შექმნას. სტატიის გამოქვეყნება არ ადასტურებს, რომ მისი ყველა დეტალი გადამოწმებულია. მნიშვნელოვანი გადაწყვეტილების, გამგზავრების ან შესყიდვის წინ დეტალები შესაბამის მომწოდებელთან ან ოფიციალურ უწყებასთან გადაამოწმეთ. არჩევანი თქვენ ხელში რჩება."
+      ],
+      [
+        "გამოყენება, განახლებები და კავშირი",
+        "საიტი კანონიერად უნდა გამოიყენოთ, მისი მუშაობის შეფერხებისა და შინაარსის ბოროტად გამოყენების გარეშე. ტექსტებისა და სურათების უფლებები მათ მფლობელებს ეკუთვნით და მათზე მითითებული ლიცენზიები ვრცელდება. პირობების არსებითი ცვლილება ხელახალ თანხმობას მოითხოვს. შეგიძლიათ ნებისმიერ დროს შეწყვიტოთ საიტის გამოყენება და შესწორების, კონფიდენციალურობისა თუ ხელმისაწვდომობის საკითხებზე მოგვწეროთ: contact@example.com. ბოლო განახლება: 2026 წლის 1 ოქტომბერი."
+      ]
+    ],
+    "privacy_body": [
+      "ვიზიტის შიდა შემთხვევითი იდენტიფიკატორი ვიზიტის განმავლობაში გვერდების ნახვებს, მოქმედებებსა და დაწკაპუნებებს ერთმანეთთან აკავშირებს. ანგარიშები შეიძლება მოიცავდეს დროს, შესვლის გვერდს, ენას, მომმართველ დომენს, თუ ხელმისაწვდომია, წყაროს, კამპანიას, რეკლამას, REF/PARAM-ს, მომწოდებელსა და ღილაკის მდებარეობას. ჩანაწერები პიროვნების ვინაობას, შეძენას ან საკომისიოს არ ადასტურებს. სერვერისა და უსაფრთხოების ჟურნალები შეიძლება შეიცავდეს ტექნიკურ ინფორმაციას, მაგალითად IP მისამართს.",
+      "აუცილებელი ქუქი-ფაილები ფორმების მუშაობასა და დაცვას ემსახურება. ენის არჩევანი და პირობებზე თანხმობა ერთ წლამდე ინახება. მოგზაურობის ჩანაწერები და ხელმისაწვდომობის პარამეტრები ბრაუზერში ინახება; მონაცემების გასუფთავება მათ შლის. კალკულატორებში შეყვანილი მონაცემები შედეგის მისაღებად გამოიყენება და სტატიების ანალიტიკის მონაცემებად არ ინახება. ინსტრუმენტებში ნუ შეიყვანთ გადახდის მონაცემებს ან მგზავრების სენსიტიურ ინფორმაციას.",
+      "პარტნიორულ ბმულზე გადასვლა მომწოდებელს მოთხოვნასა და კამპანიის იდენტიფიკატორებს გადასცემს. მის საიტზე მისი კონფიდენციალურობისა და ქუქი-ფაილების პოლიტიკა მოქმედებს; მის მიერ მონაცემთა დამუშავებას ჩვენ ვერ ვაკონტროლებთ. შეკითხვებისა და მონაცემების ნახვის, შესწორებისა თუ წაშლის მოთხოვნებისთვის, კანონისა და საჭიროების შემთხვევაში ვინაობის გადამოწმების გათვალისწინებით: contact@example.com.",
+      "ქუქი-ფაილები და პარამეტრები საიტის ენისა და პირობებზე თანხმობის დამახსოვრების საშუალებას იძლევა; კითხვის პარამეტრები და შენახული გზამკვლევები განმეორებითი გამოყენების გასამარტივებლად ბრაუზერში ინახება. ვიზიტორებს გადახდის ან ჯავშნის მონაცემებს არ ვთხოვთ, ხოლო საიტს არ აქვს სისტემა, რომელიც Viator-ზე ან სხვა მესამე მხარის საიტებზე, მათ შორის პარტნიორული ბმულებით, შესრულებული ჯავშნების დეტალებს იღებს. ბმულზე დაწკაპუნება არ გვამცნობს, რომ შეძენა განხორციელდა. თუმცა გამოყენებისა და წყაროს მიკუთვნების მონაცემები კონფიდენციალურობის პოლიტიკის შესაბამისად ინახება, ხოლო თქვენი ინიციატივით გამოგზავნილი ელფოსტა იმ ინფორმაციას შეიცავს, რომლის მოწოდებასაც თავად გადაწყვეტთ. ამიტომ ეს არ ნიშნავს, რომ საიტზე საერთოდ არანაირი ინფორმაცია არ მუშავდება.",
+      "The travel community stores your public username, password and recovery-code hashes, trips you choose to save to your account, place suggestions, photos, ratings and reports on the server. Account saves are private by default. Publishing a trip exposes your username, destination, day structure and places; private notes, exact travel dates and booking marks are excluded. New place submissions and their photos are reviewed before publication. Images are reprocessed to remove EXIF metadata. These records are kept for service operation and moderation; automatic deletion has not yet been implemented. You can unpublish a trip from your account and contact us for other requests. Clearing browser data does not delete account records.",
+      "A direct share link makes its itinerary and included photos visible to anyone who receives the link, even before moderator review. It is absent from the community directory and marked noindex; this does not restrict access for link recipients. Community-directory and place-search listings require moderator approval. You can revoke sharing from your account."
+    ],
+    "retention_body": [
+      "ენისა და პირობებზე თანხმობის ქუქი-ფაილებს ვადა ერთი წლის შემდეგ გასდის. წყაროების მიკუთვნებისა და ვიზიტების დასაკავშირებლად დაახლოებით 30-წუთიანი უმოქმედობის ფანჯარა გამოიყენება; ეს არ ნიშნავს, რომ ანგარიშების ჩანაწერები 30 წუთის შემდეგ იშლება.",
+      "შენახული გზამკვლევები და ხელმისაწვდომობის პარამეტრები ბრაუზერში რჩება პარამეტრების აღდგენამდე ან მონაცემების გასუფთავებამდე. ისტორიული ანგარიშები და უსაფრთხოების ჩანაწერები მუშაობის, გაზომვისა და უსაფრთხოების მიზნებისთვის ინახება; ავტომატური წაშლის ფიქსირებული ვადა ჯერ არ არის განსაზღვრული. სარეზერვო ასლებიც შეიძლება ძველ მონაცემებს შეიცავდეს. შემოწმების ან შესაბამის შემთხვევებში წაშლის მოთხოვნისთვის: contact@example.com."
+    ],
+    "access_body": [
+      "საიტს აქვს კლავიატურით ნავიგაცია, ხილული ფოკუსი, შინაარსზე გადასვლის ბმული, მართვის ელემენტების წარწერები და მარჯვნიდან მარცხნივ და მარცხნიდან მარჯვნივ კითხვის მხარდაჭერა. ხელმისაწვდომობის ინსტრუმენტები ტექსტის გადიდების, კონტრასტის გაზრდის, ბმულების გამოკვეთისა და მოძრაობის შემცირების საშუალებას იძლევა. შეგიძლიათ ბრაუზერის მასშტაბირების ფუნქციაც გამოიყენოთ.",
+      "ხელმისაწვდომობის შემოწმებასა და გაუმჯობესებას ვაგრძელებთ. ეს გვერდი კანონმდებლობის ან სტანდარტის ყველა მოთხოვნასთან სრულ შესაბამისობას არ ადასტურებს. გარე დაჯავშნის საიტები ჩვენს კონტროლს არ ექვემდებარება. სირთულეს წააწყდით? მოგვწერეთ contact@example.com-ზე გვერდის მისამართითა და პრობლემის აღწერით; შეგიძლიათ ბრაუზერი ან დამხმარე ტექნოლოგიაც მიუთითოთ. სენსიტიური სამედიცინო ინფორმაციის მოწოდება საჭირო არ არის."
+    ],
+    "a11y": "კითხვის პარამეტრები",
+    "large": "გადიდებული ტექსტი",
+    "contrast": "მაღალი კონტრასტი",
+    "links": "ბმულების ხაზგასმა",
+    "motion": "მოძრაობის შემცირება",
+    "reset": "პარამეტრების აღდგენა",
+    "service_intro": [
+      {
+        "heading": true,
+        "text": "Tripovela — თქვენი მოგზაურობა სასურველი გამოცდილებებით იწყება"
+      },
+      {
+        "heading": false,
+        "text": "ზოგჯერ ზუსტად ვიცით, სად მივფრინავთ, მაგრამ ჯერ არ ვიცით, ჩასვლის შემდეგ რას გავაკეთებთ. ფრენა უკვე დაჯავშნილია, შესაძლოა სასტუმროც, თუმცა კვლავ რჩება კითხვები, რომლებიც დანიშნულების ადგილს შვებულებად აქცევს: რა უნდა ვნახოთ? რომელი აქტივობა შეგვეფერება? რისი გაკეთება შეიძლება ბავშვებთან ერთად? დავჯავშნოთ ტური, დამოუკიდებლად გავისეირნოთ თუ გზად აღმოჩენებისთვის თავისუფალი დრო დავიტოვოთ?"
+      },
+      {
+        "heading": false,
+        "text": "Tripovela სწორედ ამ კითხვების გარშემო შეიქმნა. ჩვენი მიზანია, დაგეხმაროთ არჩეულ დანიშნულების ადგილზე შესაძლო აქტივობების აღმოჩენაში, ვარიანტების გაგებასა და მათი ისეთ მოგზაურობად გაერთიანებაში, რომელიც თქვენს ინტერესებს, დროს, ბიუჯეტსა და სასურველ ტემპს შეეფერება."
+      },
+      {
+        "heading": false,
+        "text": "გვჯერა, რომ კარგი დაგეგმვა სასურველი შვებულების გააზრებით იწყება. ზოგი ბუნებასა და თავგადასავალს ეძებს, სხვებს ადგილობრივი საკვები, წარმოდგენები და კულტურა აინტერესებთ, ზოგს კი დღეში ერთი აქტივობისა და ბევრი თავისუფალი დროის შერწყმა ურჩევნია. ერთსა და იმავე ადგილასაც ორ ადამიანს სრულიად განსხვავებული მოგზაურობის შექმნა შეუძლია. Tripovela-ს როლია, თქვენს მოგზაურობას მორგებული ვარიანტები გაპოვნინოთ და მათ შორის განსხვავებები გაგაგებინოთ."
+      },
+      {
+        "heading": true,
+        "text": "არჩეული დანიშნულების ადგილიდან გამოცდილებებამდე, რომელთა დამახსოვრებაც გსურთ"
+      },
+      {
+        "heading": false,
+        "text": "Tripovela-ზე იპოვით გზამკვლევებსა და მასალებს, რომლებიც იდეების პრაქტიკულ გადაწყვეტილებებად ქცევაში დაგეხმარებათ: როგორ გაანაწილოთ ქალაქში დრო, რომელი უბანი გამოდგება საცხოვრებელ ბაზად, რა შეამოწმოთ აქტივობის არჩევამდე და როგორ ჩართოთ გამოცდილებები მარშრუტში."
+      },
+      {
+        "heading": false,
+        "text": "შეგიძლიათ დაიწყოთ კითხვით „რა გავაკეთოთ პრაღაში?“ და შემდეგ ტური, გემით გასეირნება ან ოჯახური აქტივობა აირჩიოთ. შეგიძლიათ კონკრეტული სურვილიდანაც დაიწყოთ — სერფინგი, ადგილობრივი საკვების დაგემოვნება, წარმოდგენის ნახვა ან ბუნებაში დღის გატარება — და ნახოთ, როგორ ერგება ეს თქვენს დანიშნულების ადგილსა და მოგზაურობის გეგმას."
+      },
+      {
+        "heading": false,
+        "text": "ვცდილობთ წარმოვადგინოთ არჩევანის გაკეთებისთვის გამოსადეგი ინფორმაცია: რას მოიცავს გამოცდილება, რამდენ დროს მოითხოვს, სად ტარდება, როგორ მიხვიდეთ და რა დეტალები უნდა დააზუსტოთ დაჯავშნამდე. ლამაზმა ფოტომ შეიძლება მოგზაურობის სურვილი გაგიჩინოთ; მის გვერდით მოცემული დეტალები კი დაგეხმარებათ გაიგოთ, ნამდვილად სწორია თუ არა ეს არჩევანი თქვენთვის."
+      },
+      {
+        "heading": true,
+        "text": "ადგილი იმისთვისაც, რასაც დაჯავშნა არ სჭირდება"
+      },
+      {
+        "heading": false,
+        "text": "კარგი მოგზაურობა სხვადასხვა ტიპის მომენტებისგან შედგება. გიდიან ტურს ვიზიტის გამდიდრება შეუძლია, მაგრამ დამოუკიდებელი სეირნობა, ხედის სანახავი ადგილი, ადგილობრივი ბაზარი, პარკი ან თავისუფალი შუადღეც შვებულების მნიშვნელოვანი ნაწილი შეიძლება იყოს."
+      },
+      {
+        "heading": false,
+        "text": "ამიტომ Tripovela-ს ხედვა ფასიანი გამოცდილებების, დამოუკიდებლად მოსანახულებელი ადგილებისა და ისეთი ვარიანტების გაერთიანებას მოიცავს, რომლებიც შეძენას არ მოითხოვს. ზოგი ვარიანტი კომერციულ პარტნიორთან დაჯავშნაზე გადაგიყვანთ, სხვები — ოფიციალურ საიტზე ან გარე საინფორმაციო წყაროზე. საერთო მიზანია, დაგეხმაროთ გაიგოთ, რისი გაკეთება შეიძლება და როგორ გააგრძელოთ იქიდან."
+      },
+      {
+        "heading": false,
+        "text": "გვინდა, საიტი სასარგებლო იყოს მათთვისაც, ვინც ყველაფერი საჭირო უკვე დაჯავშნა, მათთვისაც, ვინც ჯერ აქტივობებს არჩევს, და მათთვისაც, ვინც ადგილზეა და უბრალოდ დღევანდელი დღისთვის კარგ იდეას ეძებს."
+      },
+      {
+        "heading": true,
+        "text": "მოგზაურობა კვლავ თქვენია"
+      },
+      {
+        "heading": false,
+        "text": "Tripovela-ს ვავითარებთ იმისთვის, რომ აღმოჩენა, არჩევა და დაგეგმვა მოხერხებულად დავაკავშიროთ. ჩვენი მიმართულებაა, მოგზაურებმა იდეებს ერთ ადგილას მოუყარონ თავი, დაუბრუნდნენ მათ და გასაგები პირადი გეგმა შექმნან. შენახვისა და დაგეგმვის ინსტრუმენტები საიტზე წარმოდგენილი შესაძლებლობების შესაბამისადაა ხელმისაწვდომი, დამატებითი ფუნქციები კი ეტაპობრივად დაემატება."
+      },
+      {
+        "heading": false,
+        "text": "ჩვენთვის კარგი გეგმა ცვლილებებისთვის ადგილს უნდა ტოვებდეს. შეგიძლიათ აქტივობით აღფრთოვანდეთ და მისი მოგვიანებით დამატება გადაწყვიტოთ, დატვირთულ დღეზე უარი თქვათ ან გადაწყვიტოთ, რომ ხვალ სხვა რამ გინდათ. გვინდა, გადაწყვეტილებების მიღებაში დაგეხმაროთ და ამავე დროს მოგზაურობით თქვენებურად ტკბობის თავისუფლება შეგინარჩუნოთ."
+      },
+      {
+        "heading": true,
+        "text": "ინფორმაცია, ფასები და დაჯავშნა"
+      },
+      {
+        "heading": false,
+        "text": "საიტის შინაარსი Tripovela-ს გზამკვლევებსა და გამოცდილებების მომწოდებლებისა და გარე წყაროებისგან მიღებულ ინფორმაციას აერთიანებს. როდესაც მომწოდებლის ფასები, შეფასებები, ფოტოები ან აქტივობის დეტალებია ნაჩვენები, შეთავაზების გვერდით მოცემული განმარტებები და პირობებიც გაითვალისწინეთ."
+      },
+      {
+        "heading": false,
+        "text": "ფასები, სამუშაო საათები, ხელმისაწვდომობა და მომსახურების შემადგენლობა შეიძლება შეიცვალოს. საწყისი ფასი აუცილებელი არ არის თქვენს თარიღს, ვარიანტსა და მონაწილეთა შემადგენლობას შეესაბამებოდეს. შეძენამდე ან აქტივობაზე წასვლამდე მნიშვნელოვანია მომსახურების მომწოდებელთან მიმდინარე დეტალების გადამოწმება."
+      },
+      {
+        "heading": false,
+        "text": "თუ საიტზე განთავსებული ბმულით დაჯავშნას აირჩევთ, დაჯავშნა და გადახდა იმ მომწოდებლის ან დაჯავშნის პლატფორმის, მაგალითად Viator-ის, საიტზე ხდება, სადაც გადახვალთ. იქ შეამოწმებთ საბოლოო ფასს, ხელმისაწვდომობას, გაუქმების პირობებსა და ჯავშნის სავალდებულო დეტალებს. საიტზე იდეის შენახვა ან გეგმაში აქტივობის დამატება დაჯავშნას ან ადგილის შენარჩუნებას არ ნიშნავს."
+      },
+      {
+        "heading": false,
+        "text": "საიტის ბმულების ნაწილი პარტნიორულია; მათი საშუალებით შესაბამისი ჯავშნებიდან შესაძლოა საკომისიო მივიღოთ. ეს ბიზნესმოდელის ნაწილია, რომელიც Tripovela-ს განვითარებისა და მისი შინაარსისა და მომსახურებების გაფართოების საშუალებას გვაძლევს. დაჯავშნის შესაძლებლობებთან ერთად საიტზე არის ინფორმაცია და იდეებიც, რომლებსაც საკომისიო არ უკავშირდება."
+      },
+      {
+        "heading": true,
+        "text": "გაიგეთ, რისი გაკეთება შეიძლება. აირჩიეთ ის, რაც თქვენ შეგეფერებათ."
+      },
+      {
+        "heading": false,
+        "text": "გვინდა, Tripovela-ს მეტი სიცხადით ტოვებდეთ: იდეებით, რომლებიც აღგაფრთოვანებთ, ვარიანტების უკეთ გაგებითა და დაგეგმვის ან დაჯავშნის გაგრძელების მარტივი გზით."
+      },
+      {
+        "heading": false,
+        "text": "იქნება ეს რამდენიმე თვით ადრე დაგეგმვა თუ უკვე დანიშნულების ადგილზე ხვალინდელი აქტივობის ძიება, Tripovela დაგეხმარებათ, ჩასვლის ადგილი დაუკავშიროთ გამოცდილებებს, რომელთა მოგონებებად შინ წაღება გსურთ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+<?php $item=null;foreach(tripCatalog() as $x)if($x['id']===$m[1]&&$x['cost']==='free')$item=$x;if(!$item){http_response_code(404);require ROOT.'/views/not-found.php';return;}contentIndexMark('place','',true);$title=$item['title'];$description=$item['summary'];$media=[];$detail=[];require ROOT.'/views/free-market.php';

@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE IF NOT EXISTS articles (id TEXT PRIMARY KEY, slug TEXT NOT NULL UNIQUE, title TEXT NOT NULL, summary TEXT NOT NULL, body TEXT NOT NULL, category TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'draft', seo_description TEXT NOT NULL DEFAULT '', checked_at TEXT, published_at TEXT, updated_at TEXT NOT NULL, checksum TEXT NOT NULL, edited INTEGER NOT NULL DEFAULT 0, version INTEGER NOT NULL DEFAULT 1);
+CREATE INDEX IF NOT EXISTS articles_status_category ON articles(status,category);
+CREATE TABLE IF NOT EXISTS editorial (article_id TEXT PRIMARY KEY REFERENCES articles(id), body TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS sources (id INTEGER PRIMARY KEY, article_id TEXT NOT NULL REFERENCES articles(id), title TEXT NOT NULL, url TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS relations (article_id TEXT REFERENCES articles(id), related_id TEXT REFERENCES articles(id), PRIMARY KEY(article_id,related_id));
+CREATE TABLE IF NOT EXISTS revisions (id INTEGER PRIMARY KEY, article_id TEXT REFERENCES articles(id), snapshot TEXT NOT NULL, created_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, email TEXT NOT NULL UNIQUE, password TEXT NOT NULL, role TEXT NOT NULL DEFAULT 'admin');
+CREATE TABLE IF NOT EXISTS attempts (key TEXT PRIMARY KEY, count INTEGER NOT NULL, expires INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS affiliate_links (id TEXT PRIMARY KEY, provider TEXT NOT NULL, url TEXT NOT NULL, host TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'paused', evidence TEXT NOT NULL DEFAULT '', traffic TEXT NOT NULL DEFAULT 'unknown', verified_at TEXT, version INTEGER NOT NULL DEFAULT 1);
+CREATE TABLE IF NOT EXISTS settings (key TEXT PRIMARY KEY,value TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS audit (id INTEGER PRIMARY KEY, actor TEXT, action TEXT NOT NULL, entity TEXT NOT NULL, created_at TEXT NOT NULL);

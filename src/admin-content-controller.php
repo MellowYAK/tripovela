@@ -1,0 +1,14 @@
+<?php
+requireAdmin();$kind=(string)($_GET['kind']??'');$id=(string)($_GET['id']??'');$table=['post'=>'network_posts','trip'=>'member_trips'][$kind]??'';
+$row=$table?socialQuery("SELECT * FROM $table WHERE id=?",[$id])->fetch():null;
+$locale=$row?socialQuery("SELECT * FROM network_localizations WHERE kind=? AND target=? ORDER BY (language=?) DESC,updated DESC LIMIT 1",[$kind,$id,(string)($_GET['content_lang']??siteLanguage())])->fetch():null;
+if(!$row||!$locale){http_response_code(404);$content='<p>'.e(socialT('not_found')).'</p>';require ROOT.'/views/layout.php';return;}
+$doc=json_decode($locale['document'],true);$titleKey=$kind==='trip'?'public_title':'title';$bodyKey=$kind==='trip'?'summary':'body';$error='';$title=qaT('manage_post');
+if($_SERVER['REQUEST_METHOD']==='POST')try{
+ if((int)($_POST['version']??0)!==(int)$locale['source_version'])throw new DomainException('conflict');$action=(string)($_POST['action']??'');
+ if(in_array($action,['hide','restore'],true)){crContentDecision($kind,$id,$action,qaT('manage_post'));}
+ elseif($action==='edit'){
+  socialDb()->beginTransaction();try{$fresh=socialQuery('SELECT source_version FROM network_localizations WHERE kind=? AND target=? AND language=?',[$kind,$id,$locale['language']])->fetchColumn();if((int)$fresh!==(int)$locale['source_version'])throw new DomainException('conflict');$doc[$titleKey]=socialString($_POST['title']??'',160,1);$doc[$bodyKey]=socialString($_POST['body']??'',12000,1);networkApproveLocale($kind,$id,$locale['language'],$doc,'admin:'.qaAdminId());if($kind==='trip')socialQuery('UPDATE member_trips SET public_plan=?,revision=revision+1,updated=? WHERE id=?',[json_encode($doc,JSON_UNESCAPED_UNICODE),time(),$id]);socialDb()->commit();}catch(Throwable $e){if(socialDb()->inTransaction())socialDb()->rollBack();throw $e;}
+ }else throw new DomainException('invalid');audit('front-content-'.$action,$kind.':'.$id);redirect(languageUrl('/KNISA/content/?kind='.$kind.'&id='.$id.'&content_lang='.$locale['language'],siteLanguage()));
+}catch(DomainException $e){$error=socialT($e->getMessage());}
+ob_start();?><h1><?=e(qaT('manage_post'))?></h1><p><?=e(qaT('live_warning'))?></p><?php if($error):?><p role="alert"><?=e($error)?></p><?php endif?><form method="post" class="social-card"><?=csrf()?><input type="hidden" name="version" value="<?=(int)$locale['source_version']?>"><label><?=e(qaT('post_title'))?><input name="title" value="<?=e($doc[$titleKey]??'')?>" maxlength="160" required></label><label><?=e(qaT('post_body'))?><textarea name="body" rows="10" maxlength="12000" required><?=e($doc[$bodyKey]??'')?></textarea></label><button class="button" name="action" value="edit"><?=e(nt('save'))?></button><button name="action" value="<?=$row['state']==='blocked'?'restore':'hide'?>"><?=e(qaT($row['state']==='blocked'?'restore_post':'hide_post'))?></button></form><?php $content=ob_get_clean();require ROOT.'/views/layout.php';

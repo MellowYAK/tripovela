@@ -1,0 +1,1 @@
+document.querySelector('[data-country-filter]')?.addEventListener('input',event=>{const q=event.target.value.normalize('NFKD').toLocaleLowerCase();document.querySelectorAll('[data-country-row]').forEach(row=>{row.hidden=!row.textContent.normalize('NFKD').toLocaleLowerCase().includes(q);});});

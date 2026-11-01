@@ -1,0 +1,128 @@
+{
+  "en": {
+    "expand": "Expand map",
+    "view_stop": "View stop",
+    "schematic": "Stop order for illustration; not a navigation route",
+    "start": "Starting point",
+    "locate": "Show on map",
+    "partial": "Map shows {shown} of {total} stops. The remaining stops have no coordinates.",
+    "full": "All {total} stops are shown on the map."
+  },
+  "he": {
+    "expand": "הרחבת מפה",
+    "view_stop": "מעבר לתחנה",
+    "schematic": "סדר התחנות להמחשה; אינו מסלול ניווט",
+    "start": "נקודת התחלה",
+    "locate": "הצגה במפה",
+    "partial": "המפה מציגה {shown} מתוך {total} תחנות. לשאר התחנות לא נוספו קואורדינטות.",
+    "full": "כל {total} התחנות מוצגות במפה."
+  },
+  "ru": {
+    "expand": "Развернуть карту",
+    "view_stop": "Перейти к остановке",
+    "schematic": "Порядок остановок показан схематично; это не маршрут навигации",
+    "start": "Начальная точка",
+    "locate": "Показать на карте",
+    "partial": "На карте {shown} из {total} остановок. У остальных нет координат.",
+    "full": "На карте показаны все остановки: {total}."
+  },
+  "ka": {
+    "expand": "რუკის გაფართოება",
+    "view_stop": "გაჩერებაზე გადასვლა",
+    "schematic": "გაჩერებების რიგი სქემატურია; ეს არ არის სანავიგაციო მარშრუტი",
+    "start": "საწყისი წერტილი",
+    "locate": "რუკაზე ჩვენება",
+    "partial": "რუკაზე ჩანს {shown} გაჩერება {total}-დან. დანარჩენს კოორდინატები არ აქვს.",
+    "full": "რუკაზე ნაჩვენებია ყველა {total} გაჩერება."
+  },
+  "es": {
+    "expand": "Ampliar mapa",
+    "view_stop": "Ver parada",
+    "schematic": "Orden de paradas ilustrativo; no es una ruta de navegación",
+    "start": "Punto de inicio",
+    "locate": "Mostrar en el mapa",
+    "partial": "El mapa muestra {shown} de {total} paradas. Las demás no tienen coordenadas.",
+    "full": "Se muestran las {total} paradas en el mapa."
+  },
+  "it": {
+    "expand": "Espandi mappa",
+    "view_stop": "Vedi tappa",
+    "schematic": "Ordine delle tappe illustrativo; non è un percorso di navigazione",
+    "start": "Punto di partenza",
+    "locate": "Mostra sulla mappa",
+    "partial": "La mappa mostra {shown} tappe su {total}. Le altre non hanno coordinate.",
+    "full": "Tutte le {total} tappe sono mostrate sulla mappa."
+  },
+  "fr": {
+    "expand": "Agrandir la carte",
+    "view_stop": "Voir l’étape",
+    "schematic": "Ordre des étapes indicatif ; ce n’est pas un itinéraire de navigation",
+    "start": "Point de départ",
+    "locate": "Afficher sur la carte",
+    "partial": "La carte affiche {shown} étapes sur {total}. Les autres n’ont pas de coordonnées.",
+    "full": "Les {total} étapes sont affichées sur la carte."
+  },
+  "de": {
+    "expand": "Karte vergrößern",
+    "view_stop": "Station anzeigen",
+    "schematic": "Schematische Reihenfolge der Stationen; keine Navigationsroute",
+    "start": "Startpunkt",
+    "locate": "Auf Karte anzeigen",
+    "partial": "Die Karte zeigt {shown} von {total} Stopps. Für die übrigen fehlen Koordinaten.",
+    "full": "Alle {total} Stopps sind auf der Karte zu sehen."
+  },
+  "ar": {
+    "expand": "توسيع الخريطة",
+    "view_stop": "عرض المحطة",
+    "schematic": "ترتيب المحطات للتوضيح؛ ليس مسار ملاحة",
+    "start": "نقطة البداية",
+    "locate": "عرض على الخريطة",
+    "partial": "تعرض الخريطة {shown} من {total} محطات. لا توجد إحداثيات للمحطات الأخرى.",
+    "full": "تظهر جميع المحطات وعددها {total} على الخريطة."
+  },
+  "cs": {
+    "expand": "Zvětšit mapu",
+    "view_stop": "Zobrazit zastávku",
+    "schematic": "Pořadí zastávek je orientační; nejde o navigační trasu",
+    "start": "Výchozí bod",
+    "locate": "Zobrazit na mapě",
+    "partial": "Mapa zobrazuje {shown} z {total} zastávek. Ostatní nemají souřadnice.",
+    "full": "Na mapě je všech {total} zastávek."
+  },
+  "hu": {
+    "expand": "Térkép nagyítása",
+    "view_stop": "Megálló megtekintése",
+    "schematic": "A megállók sorrendje szemléltető; nem navigációs útvonal",
+    "start": "Kiindulópont",
+    "locate": "Megjelenítés a térképen",
+    "partial": "A térképen {total} megállóból {shown} látható. A többinél nincs koordináta.",
+    "full": "Mind a(z) {total} megálló látható a térképen."
+  },
+  "nl": {
+    "expand": "Kaart vergroten",
+    "view_stop": "Stop bekijken",
+    "schematic": "Volgorde ter illustratie; geen navigatieroute",
+    "start": "Startpunt",
+    "locate": "Op kaart tonen",
+    "partial": "De kaart toont {shown} van {total} stops. De overige hebben geen coördinaten.",
+    "full": "Alle {total} stops worden op de kaart getoond."
+  },
+  "pl": {
+    "expand": "Powiększ mapę",
+    "view_stop": "Zobacz przystanek",
+    "schematic": "Kolejność przystanków poglądowa; to nie trasa nawigacji",
+    "start": "Punkt początkowy",
+    "locate": "Pokaż na mapie",
+    "partial": "Mapa pokazuje {shown} z {total} przystanków. Pozostałe nie mają współrzędnych.",
+    "full": "Na mapie widoczne są wszystkie przystanki: {total}."
+  },
+  "pt": {
+    "expand": "Ampliar mapa",
+    "view_stop": "Ver paragem",
+    "schematic": "Ordem ilustrativa das paragens; não é uma rota de navegação",
+    "start": "Ponto de partida",
+    "locate": "Mostrar no mapa",
+    "partial": "O mapa mostra {shown} de {total} paragens. As restantes não têm coordenadas.",
+    "full": "Todas as {total} paragens são apresentadas no mapa."
+  }
+}

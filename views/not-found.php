@@ -1,0 +1,1 @@
+<section class="empty-state"><span class="eyebrow">404 · פנייה לא מוכרת</span><h1>נראה שהמדריך הזה לא כאן.</h1><p>אפשר לחזור למדריכים ולמצוא כיוון אחר לחופשה.</p><a class="button" href="/">לדף הבית ←</a></section>

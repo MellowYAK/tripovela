@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS provider_records(stream TEXT NOT NULL,id TEXT NOT NULL,payload TEXT NOT NULL,updated_at INTEGER NOT NULL,PRIMARY KEY(stream,id));
+CREATE TABLE IF NOT EXISTS sync_state(stream TEXT PRIMARY KEY,cursor TEXT,complete INTEGER NOT NULL DEFAULT 0,last_success INTEGER,last_error TEXT,rows_seen INTEGER NOT NULL DEFAULT 0);
+CREATE TABLE IF NOT EXISTS sync_runs(id INTEGER PRIMARY KEY,stream TEXT,started_at INTEGER,finished_at INTEGER,rows_count INTEGER,status TEXT,error TEXT);
+CREATE TABLE IF NOT EXISTS tag_mappings(tag_id TEXT PRIMARY KEY,category_id TEXT,reviewed INTEGER DEFAULT 0,updated_at INTEGER);
+CREATE TABLE IF NOT EXISTS editorial_records(id TEXT PRIMARY KEY,kind TEXT,revision INTEGER NOT NULL,document TEXT NOT NULL,published TEXT,updated_at TEXT);
+CREATE TABLE IF NOT EXISTS editorial_exports(id TEXT PRIMARY KEY,payload TEXT NOT NULL,created_at TEXT);
+CREATE TABLE IF NOT EXISTS editorial_imports(id TEXT PRIMARY KEY,digest TEXT UNIQUE,payload TEXT NOT NULL,state TEXT,created_at TEXT);
+CREATE TABLE IF NOT EXISTS editorial_revisions(id INTEGER PRIMARY KEY,record_id TEXT,revision INTEGER,document TEXT,published TEXT,created_at TEXT);
+CREATE TABLE IF NOT EXISTS editorial_media(id TEXT PRIMARY KEY,payload TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS editorial_locales(code TEXT PRIMARY KEY,label TEXT NOT NULL,direction TEXT NOT NULL);

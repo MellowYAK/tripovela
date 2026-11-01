@@ -1,0 +1,114 @@
+{
+  "he": {
+    "title": "מדידה לשיפור Tripovela",
+    "body": "באישורכם נשתמש ב־Google Analytics למדידת ביקורים, לחיצות, גלילה וזמן שימוש. לא נשלח טקסטים שהקלדתם או פרטי טיולים פרטיים. אפשר לסרב או לשנות את הבחירה בכל עת. Reddit Pixel מודד גם הרשמות מוצלחות כדי להעריך את ביצועי הפרסום.",
+    "accept": "אישור מדידה",
+    "decline": "ללא מדידה",
+    "settings": "העדפות מדידה",
+    "testing_body": "במהלך בדיקות האתר, Google Analytics פועל כברירת מחדל למדידת ביקורים, לחיצות, גלילה וזמן שימוש. לא נשלח טקסטים שהקלדתם או פרטי טיולים פרטיים. אפשר לכבות את המדידה כאן בכל עת. Reddit Pixel מודד גם הרשמות מוצלחות כדי להעריך את ביצועי הפרסום."
+  },
+  "en": {
+    "title": "Help improve Tripovela",
+    "body": "With your permission, Google Analytics measures visits, clicks, scrolling and active time. We do not send text you enter or private trip details. You can decline or change your choice at any time. Reddit Pixel also measures successful registrations to assess advertising performance.",
+    "accept": "Allow analytics",
+    "decline": "No analytics",
+    "settings": "Analytics preferences",
+    "testing_body": "During site testing, Google Analytics is enabled by default to measure visits, clicks, scrolling and active time. We do not send text you enter or private trip details. You can turn analytics off here at any time. Reddit Pixel also measures successful registrations to assess advertising performance."
+  },
+  "ru": {
+    "title": "Помогите улучшить Tripovela",
+    "body": "С вашего согласия Google Analytics измеряет посещения, нажатия, прокрутку и время активности. Мы не отправляем введённый текст или сведения о личных поездках. Вы можете отказаться или изменить выбор в любое время. Reddit Pixel также измеряет успешные регистрации для оценки эффективности рекламы.",
+    "accept": "Разрешить аналитику",
+    "decline": "Без аналитики",
+    "settings": "Настройки аналитики",
+    "testing_body": "Во время тестирования сайта Google Analytics включён по умолчанию для измерения посещений, нажатий, прокрутки и времени активности. Мы не отправляем введённый текст или сведения о личных поездках. Вы можете отключить аналитику здесь в любое время. Reddit Pixel также измеряет успешные регистрации для оценки эффективности рекламы."
+  },
+  "ka": {
+    "title": "დაგვეხმარეთ Tripovela-ს გაუმჯობესებაში",
+    "body": "თქვენი თანხმობით Google Analytics აღრიცხავს ვიზიტებს, დაწკაპუნებებს, გადახვევასა და აქტიურ დროს. შეყვანილ ტექსტსა და პირადი მოგზაურობის დეტალებს არ ვაგზავნით. არჩევანის შეცვლა ან უარის თქმა ნებისმიერ დროს შეგიძლიათ. Reddit Pixel ასევე აღრიცხავს წარმატებულ რეგისტრაციებს რეკლამის ეფექტურობის შესაფასებლად.",
+    "accept": "ანალიტიკის დაშვება",
+    "decline": "ანალიტიკის გარეშე",
+    "settings": "ანალიტიკის პარამეტრები",
+    "testing_body": "საიტის ტესტირებისას Google Analytics ნაგულისხმევად ჩართულია ვიზიტების, დაწკაპუნებების, გადახვევისა და აქტიური დროის გასაზომად. შეყვანილ ტექსტსა და პირადი მოგზაურობის დეტალებს არ ვაგზავნით. ანალიტიკის გამორთვა აქ ნებისმიერ დროს შეგიძლიათ. Reddit Pixel ასევე აღრიცხავს წარმატებულ რეგისტრაციებს რეკლამის ეფექტურობის შესაფასებლად."
+  },
+  "es": {
+    "title": "Ayuda a mejorar Tripovela",
+    "body": "Con tu permiso, Google Analytics mide visitas, clics, desplazamientos y tiempo activo. No enviamos el texto que escribes ni detalles de viajes privados. Puedes rechazarlo o cambiar tu elección cuando quieras. Reddit Pixel también mide los registros completados para evaluar el rendimiento publicitario.",
+    "accept": "Permitir análisis",
+    "decline": "Sin análisis",
+    "settings": "Preferencias de análisis",
+    "testing_body": "Durante las pruebas del sitio, Google Analytics está activado por defecto para medir visitas, clics, desplazamientos y tiempo activo. No enviamos el texto que escribes ni detalles de viajes privados. Puedes desactivar la analítica aquí en cualquier momento. Reddit Pixel también mide los registros completados para evaluar el rendimiento publicitario."
+  },
+  "it": {
+    "title": "Aiuta a migliorare Tripovela",
+    "body": "Con il tuo consenso, Google Analytics misura visite, clic, scorrimento e tempo attivo. Non inviamo il testo inserito né i dettagli dei viaggi privati. Puoi rifiutare o cambiare scelta in qualsiasi momento. Reddit Pixel misura anche le registrazioni completate per valutare le prestazioni pubblicitarie.",
+    "accept": "Consenti analisi",
+    "decline": "Senza analisi",
+    "settings": "Preferenze di analisi",
+    "testing_body": "Durante i test del sito, Google Analytics è attivo per impostazione predefinita per misurare visite, clic, scorrimento e tempo attivo. Non inviamo il testo inserito né i dettagli dei viaggi privati. Puoi disattivare la misurazione qui in qualsiasi momento. Reddit Pixel misura anche le registrazioni completate per valutare le prestazioni pubblicitarie."
+  },
+  "fr": {
+    "title": "Aidez à améliorer Tripovela",
+    "body": "Avec votre accord, Google Analytics mesure les visites, clics, défilements et le temps actif. Nous ne transmettons ni vos textes saisis ni les détails de vos voyages privés. Vous pouvez refuser ou modifier votre choix à tout moment. Reddit Pixel mesure aussi les inscriptions réussies pour évaluer les performances publicitaires.",
+    "accept": "Autoriser les statistiques",
+    "decline": "Sans statistiques",
+    "settings": "Préférences statistiques",
+    "testing_body": "Pendant les tests du site, Google Analytics est activé par défaut pour mesurer les visites, clics, défilements et le temps actif. Nous ne transmettons ni vos textes saisis ni les détails de vos voyages privés. Vous pouvez désactiver la mesure ici à tout moment. Reddit Pixel mesure aussi les inscriptions réussies pour évaluer les performances publicitaires."
+  },
+  "de": {
+    "title": "Hilf, Tripovela zu verbessern",
+    "body": "Mit deiner Zustimmung misst Google Analytics Besuche, Klicks, Scrollen und aktive Zeit. Wir senden keine eingegebenen Texte oder privaten Reisedetails. Du kannst jederzeit ablehnen oder deine Auswahl ändern. Reddit Pixel erfasst auch erfolgreiche Registrierungen zur Bewertung der Werbeleistung.",
+    "accept": "Analyse erlauben",
+    "decline": "Keine Analyse",
+    "settings": "Analyseeinstellungen",
+    "testing_body": "Während der Website-Tests ist Google Analytics standardmäßig aktiviert und misst Besuche, Klicks, Scrollen und aktive Zeit. Wir senden keine eingegebenen Texte oder privaten Reisedetails. Du kannst die Analyse hier jederzeit ausschalten. Reddit Pixel erfasst auch erfolgreiche Registrierungen zur Bewertung der Werbeleistung."
+  },
+  "ar": {
+    "title": "ساعد في تحسين Tripovela",
+    "body": "بموافقتك، يقيس Google Analytics الزيارات والنقرات والتمرير ووقت النشاط. لا نرسل النص الذي تدخله أو تفاصيل رحلاتك الخاصة. يمكنك الرفض أو تغيير اختيارك في أي وقت. يقيس Reddit Pixel أيضًا التسجيلات الناجحة لتقييم أداء الإعلانات.",
+    "accept": "السماح بالتحليلات",
+    "decline": "بدون تحليلات",
+    "settings": "تفضيلات التحليلات",
+    "testing_body": "أثناء اختبار الموقع، يكون Google Analytics مفعّلاً افتراضياً لقياس الزيارات والنقرات والتمرير ووقت النشاط. لا نرسل النص الذي تدخله أو تفاصيل رحلاتك الخاصة. يمكنك إيقاف التحليلات هنا في أي وقت. يقيس Reddit Pixel أيضًا التسجيلات الناجحة لتقييم أداء الإعلانات."
+  },
+  "cs": {
+    "title": "Pomozte zlepšit Tripovela",
+    "body": "S vaším souhlasem Google Analytics měří návštěvy, kliknutí, posouvání a aktivní čas. Neodesíláme zadaný text ani údaje o soukromých cestách. Souhlas můžete kdykoli odmítnout nebo změnit. Reddit Pixel také měří úspěšné registrace pro vyhodnocení reklam.",
+    "accept": "Povolit analytiku",
+    "decline": "Bez analytiky",
+    "settings": "Nastavení analytiky",
+    "testing_body": "Během testování webu je Google Analytics ve výchozím nastavení zapnutý a měří návštěvy, kliknutí, posouvání a aktivní čas. Neodesíláme zadaný text ani údaje o soukromých cestách. Analytiku zde můžete kdykoli vypnout. Reddit Pixel také měří úspěšné registrace pro vyhodnocení reklam."
+  },
+  "hu": {
+    "title": "Segíts a Tripovela fejlesztésében",
+    "body": "Engedélyeddel a Google Analytics méri a látogatásokat, kattintásokat, görgetést és aktív időt. Nem küldjük el a beírt szöveget vagy a privát utak részleteit. Bármikor elutasíthatod vagy módosíthatod a választást. A Reddit Pixel a sikeres regisztrációkat is méri a hirdetések teljesítményének értékeléséhez.",
+    "accept": "Elemzés engedélyezése",
+    "decline": "Elemzés nélkül",
+    "settings": "Elemzési beállítások",
+    "testing_body": "A webhely tesztelése alatt a Google Analytics alapértelmezés szerint méri a látogatásokat, kattintásokat, görgetést és aktív időt. Nem küldjük el a beírt szöveget vagy a privát utak részleteit. Az analitikát itt bármikor kikapcsolhatod. A Reddit Pixel a sikeres regisztrációkat is méri a hirdetések teljesítményének értékeléséhez."
+  },
+  "nl": {
+    "title": "Help Tripovela verbeteren",
+    "body": "Met je toestemming meet Google Analytics bezoeken, klikken, scrollen en actieve tijd. We versturen geen ingevoerde tekst of privéreisgegevens. Je kunt altijd weigeren of je keuze wijzigen. Reddit Pixel meet ook voltooide registraties om advertentieprestaties te beoordelen.",
+    "accept": "Analyse toestaan",
+    "decline": "Geen analyse",
+    "settings": "Analysevoorkeuren",
+    "testing_body": "Tijdens het testen van de site staat Google Analytics standaard aan om bezoeken, klikken, scrollen en actieve tijd te meten. We versturen geen ingevoerde tekst of privéreisgegevens. Je kunt de meting hier altijd uitschakelen. Reddit Pixel meet ook voltooide registraties om advertentieprestaties te beoordelen."
+  },
+  "pl": {
+    "title": "Pomóż ulepszać Tripovela",
+    "body": "Za Twoją zgodą Google Analytics mierzy wizyty, kliknięcia, przewijanie i czas aktywności. Nie wysyłamy wpisanego tekstu ani szczegółów prywatnych podróży. Możesz odmówić lub zmienić wybór w dowolnej chwili. Reddit Pixel mierzy także udane rejestracje, aby ocenić skuteczność reklam.",
+    "accept": "Zezwól na analitykę",
+    "decline": "Bez analityki",
+    "settings": "Ustawienia analityki",
+    "testing_body": "Podczas testowania witryny Google Analytics jest domyślnie włączony i mierzy wizyty, kliknięcia, przewijanie i czas aktywności. Nie wysyłamy wpisanego tekstu ani szczegółów prywatnych podróży. Możesz tutaj wyłączyć analitykę w dowolnym momencie. Reddit Pixel mierzy także udane rejestracje, aby ocenić skuteczność reklam."
+  },
+  "pt": {
+    "title": "Ajude a melhorar o Tripovela",
+    "body": "Com sua permissão, o Google Analytics mede visitas, cliques, rolagem e tempo ativo. Não enviamos o texto digitado nem detalhes de viagens privadas. Você pode recusar ou alterar sua escolha a qualquer momento. O Reddit Pixel também mede registos concluídos para avaliar o desempenho dos anúncios.",
+    "accept": "Permitir análise",
+    "decline": "Sem análise",
+    "settings": "Preferências de análise",
+    "testing_body": "Durante os testes do site, o Google Analytics fica ativado por padrão para medir visitas, cliques, rolagem e tempo ativo. Não enviamos o texto digitado nem detalhes de viagens privadas. Você pode desativar a medição aqui a qualquer momento. O Reddit Pixel também mede registos concluídos para avaliar o desempenho dos anúncios."
+  }
+}

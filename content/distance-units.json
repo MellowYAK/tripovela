@@ -1,0 +1,26 @@
+{
+  "default": "km",
+  "countries": {
+    "US": "mi",
+    "GB": "mi",
+    "LR": "mi",
+    "MM": "mi"
+  },
+  "units": {
+    "km": {
+      "meters": 1000,
+      "label": "kilometers",
+      "symbol": "km"
+    },
+    "mi": {
+      "meters": 1609.344,
+      "label": "miles",
+      "symbol": "mi"
+    },
+    "m": {
+      "meters": 1,
+      "label": "meters",
+      "symbol": "m"
+    }
+  }
+}

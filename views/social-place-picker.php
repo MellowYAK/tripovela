@@ -1,0 +1,6 @@
+<section class="sc-picker" data-sc-picker data-catalog="<?=e(json_encode(array_values(array_map(fn($p)=>array_intersect_key($p,array_flip(['id','title','city','country','image','cost']))+['city_label'=>activityLabel(tripDestinations()[$p['city']]['labels']??[$p['city'],$p['city'],$p['city']])],scCatalogue())),JSON_UNESCAPED_UNICODE))?>">
+<?php if($kind!=='place'):?><label><?=e($kind==='trip'?scText('Stops in order','תחנות לפי הסדר','Остановки по порядку'):scText('Places in this post (optional)','מקומות בפרסום (לא חובה)','Места в публикации (необязательно)'))?></label><?php endif?>
+<input type="hidden" name="place_ids" value="<?=e($_POST['place_ids']??json_encode($d['place_ids']??[]))?>"><input type="hidden" name="optional_ids" value="<?=e($_POST['optional_ids']??json_encode($d['optional_ids']??[]))?>">
+<?php if($kind==='place'):?><small data-sc-count></small><?php endif?><div data-sc-selected></div><input type="search" data-sc-search placeholder="<?=e(scText('Search the place library','חיפוש בספריית המקומות','Поиск в библиотеке мест'))?>" aria-label="<?=e(nt('search'))?>"><div class="sc-picker-results" data-sc-results></div>
+<a data-sc-new-place href="<?=e(languageUrl('/community/contribute/',siteLanguage()))?>"><?=e(rxT('suggest'))?></a>
+</section>

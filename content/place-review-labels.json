@@ -1,0 +1,156 @@
+{
+  "he": {
+    "tab": "עדכוני מקומות",
+    "intro": "בדקו את פרטי המקום והתמונות יחד. האישור מחיל את השינויים המוצגים ומאשר את התמונות הממתינות.",
+    "before": "מידע קיים",
+    "after": "העדכון המוצע",
+    "note": "הערה (לא חובה באישור)",
+    "approve": "אישור העדכון והתמונות",
+    "needs_info": "בקשת תיקון",
+    "reject": "דחייה",
+    "empty": "אין עדכוני מקומות הממתינים לבדיקה."
+  },
+  "en": {
+    "tab": "Place updates",
+    "intro": "Review place details and photos together. Approval applies the displayed changes and approves pending photos.",
+    "before": "Current information",
+    "after": "Proposed update",
+    "note": "Note (optional for approval)",
+    "approve": "Approve update and photos",
+    "needs_info": "Request changes",
+    "reject": "Reject",
+    "empty": "No place updates awaiting review."
+  },
+  "ru": {
+    "tab": "Обновления мест",
+    "intro": "Проверьте сведения и фотографии вместе. Одобрение применяет показанные изменения и одобряет ожидающие фотографии.",
+    "before": "Текущие сведения",
+    "after": "Предложенное обновление",
+    "note": "Примечание (необязательно при одобрении)",
+    "approve": "Одобрить обновление и фото",
+    "needs_info": "Запросить исправления",
+    "reject": "Отклонить",
+    "empty": "Нет обновлений на проверке."
+  },
+  "ka": {
+    "tab": "ადგილების განახლებები",
+    "intro": "ერთად შეამოწმეთ ადგილის დეტალები და ფოტოები. დამტკიცება გამოიყენებს ნაჩვენებ ცვლილებებს და დაამტკიცებს მოლოდინში მყოფ ფოტოებს.",
+    "before": "მიმდინარე ინფორმაცია",
+    "after": "შემოთავაზებული განახლება",
+    "note": "შენიშვნა (დამტკიცებისას არასავალდებულო)",
+    "approve": "განახლებისა და ფოტოების დამტკიცება",
+    "needs_info": "შესწორების მოთხოვნა",
+    "reject": "უარყოფა",
+    "empty": "შესამოწმებელი განახლებები არ არის."
+  },
+  "es": {
+    "tab": "Actualizaciones de lugares",
+    "intro": "Revisa los datos y las fotos juntos. La aprobación aplica los cambios mostrados y aprueba las fotos pendientes.",
+    "before": "Información actual",
+    "after": "Cambio propuesto",
+    "note": "Nota (opcional al aprobar)",
+    "approve": "Aprobar cambios y fotos",
+    "needs_info": "Solicitar cambios",
+    "reject": "Rechazar",
+    "empty": "No hay actualizaciones pendientes."
+  },
+  "it": {
+    "tab": "Aggiornamenti dei luoghi",
+    "intro": "Controlla insieme dettagli e foto. L’approvazione applica le modifiche mostrate e approva le foto in attesa.",
+    "before": "Informazioni attuali",
+    "after": "Modifica proposta",
+    "note": "Nota (facoltativa per approvare)",
+    "approve": "Approva aggiornamento e foto",
+    "needs_info": "Richiedi modifiche",
+    "reject": "Rifiuta",
+    "empty": "Nessun aggiornamento in attesa."
+  },
+  "fr": {
+    "tab": "Mises à jour des lieux",
+    "intro": "Vérifiez ensemble les informations et les photos. L’approbation applique les changements affichés et approuve les photos en attente.",
+    "before": "Informations actuelles",
+    "after": "Mise à jour proposée",
+    "note": "Note (facultative pour approuver)",
+    "approve": "Approuver les changements et photos",
+    "needs_info": "Demander des modifications",
+    "reject": "Refuser",
+    "empty": "Aucune mise à jour en attente."
+  },
+  "de": {
+    "tab": "Ortsaktualisierungen",
+    "intro": "Prüfe Angaben und Fotos gemeinsam. Die Freigabe übernimmt die angezeigten Änderungen und gibt ausstehende Fotos frei.",
+    "before": "Aktuelle Angaben",
+    "after": "Vorgeschlagene Änderung",
+    "note": "Notiz (bei Freigabe optional)",
+    "approve": "Änderung und Fotos freigeben",
+    "needs_info": "Änderungen anfordern",
+    "reject": "Ablehnen",
+    "empty": "Keine Aktualisierungen zur Prüfung."
+  },
+  "ar": {
+    "tab": "تحديثات الأماكن",
+    "intro": "راجع تفاصيل المكان والصور معًا. تطبق الموافقة التغييرات المعروضة وتوافق على الصور المعلقة.",
+    "before": "المعلومات الحالية",
+    "after": "التحديث المقترح",
+    "note": "ملاحظة (اختيارية عند الموافقة)",
+    "approve": "الموافقة على التحديث والصور",
+    "needs_info": "طلب تعديلات",
+    "reject": "رفض",
+    "empty": "لا توجد تحديثات تنتظر المراجعة."
+  },
+  "cs": {
+    "tab": "Aktualizace míst",
+    "intro": "Zkontrolujte údaje a fotografie společně. Schválení použije zobrazené změny a schválí čekající fotografie.",
+    "before": "Současné informace",
+    "after": "Navržená změna",
+    "note": "Poznámka (při schválení volitelná)",
+    "approve": "Schválit změny a fotografie",
+    "needs_info": "Požádat o úpravy",
+    "reject": "Zamítnout",
+    "empty": "Žádné aktualizace nečekají na kontrolu."
+  },
+  "hu": {
+    "tab": "Helyek frissítései",
+    "intro": "Ellenőrizd együtt az adatokat és a fényképeket. A jóváhagyás alkalmazza a megjelenített változásokat és jóváhagyja a függő fényképeket.",
+    "before": "Jelenlegi adatok",
+    "after": "Javasolt változás",
+    "note": "Megjegyzés (jóváhagyáskor nem kötelező)",
+    "approve": "Változások és képek jóváhagyása",
+    "needs_info": "Módosítás kérése",
+    "reject": "Elutasítás",
+    "empty": "Nincs ellenőrzésre váró frissítés."
+  },
+  "nl": {
+    "tab": "Plaatsupdates",
+    "intro": "Controleer gegevens en foto’s samen. Goedkeuring past de getoonde wijzigingen toe en keurt wachtende foto’s goed.",
+    "before": "Huidige gegevens",
+    "after": "Voorgestelde wijziging",
+    "note": "Opmerking (optioneel bij goedkeuring)",
+    "approve": "Wijziging en foto’s goedkeuren",
+    "needs_info": "Wijzigingen vragen",
+    "reject": "Afwijzen",
+    "empty": "Geen updates wachten op beoordeling."
+  },
+  "pl": {
+    "tab": "Aktualizacje miejsc",
+    "intro": "Sprawdź razem dane i zdjęcia. Zatwierdzenie wprowadza pokazane zmiany i zatwierdza oczekujące zdjęcia.",
+    "before": "Obecne informacje",
+    "after": "Proponowana zmiana",
+    "note": "Uwaga (opcjonalna przy zatwierdzaniu)",
+    "approve": "Zatwierdź zmianę i zdjęcia",
+    "needs_info": "Poproś o poprawki",
+    "reject": "Odrzuć",
+    "empty": "Brak aktualizacji do sprawdzenia."
+  },
+  "pt": {
+    "tab": "Atualizações de lugares",
+    "intro": "Reveja os detalhes e as fotos em conjunto. A aprovação aplica as alterações apresentadas e aprova as fotos pendentes.",
+    "before": "Informações atuais",
+    "after": "Alteração proposta",
+    "note": "Nota (opcional ao aprovar)",
+    "approve": "Aprovar atualização e fotos",
+    "needs_info": "Pedir alterações",
+    "reject": "Rejeitar",
+    "empty": "Não há atualizações pendentes."
+  }
+}

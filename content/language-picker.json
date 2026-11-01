@@ -1,0 +1,104 @@
+{
+  "labels": {
+    "he": {
+      "search": "חיפוש שפה",
+      "empty": "לא נמצאו שפות"
+    },
+    "en": {
+      "search": "Search languages",
+      "empty": "No matching languages"
+    },
+    "ru": {
+      "search": "Поиск языка",
+      "empty": "Языки не найдены"
+    },
+    "ka": {
+      "search": "ენის ძიება",
+      "empty": "ენები ვერ მოიძებნა"
+    },
+    "es": {
+      "search": "Buscar idiomas",
+      "empty": "No se encontraron idiomas"
+    },
+    "it": {
+      "search": "Cerca lingue",
+      "empty": "Nessuna lingua trovata"
+    },
+    "fr": {
+      "search": "Rechercher une langue",
+      "empty": "Aucune langue trouvée"
+    },
+    "de": {
+      "search": "Sprachen suchen",
+      "empty": "Keine Sprachen gefunden"
+    },
+    "ar": {
+      "search": "البحث عن لغة",
+      "empty": "لم يتم العثور على لغات"
+    },
+    "cs": {
+      "search": "Hledat jazyky",
+      "empty": "Žádné jazyky nenalezeny"
+    },
+    "hu": {
+      "search": "Nyelvek keresése",
+      "empty": "Nincs találat"
+    },
+    "nl": {
+      "search": "Talen zoeken",
+      "empty": "Geen talen gevonden"
+    },
+    "pl": {
+      "search": "Szukaj języków",
+      "empty": "Nie znaleziono języków"
+    },
+    "pt": {
+      "search": "Pesquisar idiomas",
+      "empty": "Nenhum idioma encontrado"
+    }
+  },
+  "flags": {
+    "he": "il",
+    "en": "us",
+    "ru": "ru",
+    "ka": "ge",
+    "de": "de",
+    "fr": "fr",
+    "es": "es",
+    "it": "it",
+    "pt": "pt",
+    "ar": "ae",
+    "uk": "ua",
+    "pl": "pl",
+    "nl": "nl",
+    "el": "gr",
+    "tr": "tr",
+    "cs": "cz",
+    "ro": "ro",
+    "hu": "hu",
+    "sv": "se",
+    "da": "dk",
+    "nb": "no",
+    "fi": "fi",
+    "is": "is",
+    "bg": "bg",
+    "sr": "rs",
+    "hr": "hr",
+    "sk": "sk",
+    "sl": "si",
+    "lt": "lt",
+    "lv": "lv",
+    "et": "ee",
+    "hy": "am",
+    "az": "az",
+    "fa": "ir",
+    "hi": "in",
+    "zh": "cn",
+    "ja": "jp",
+    "ko": "kr",
+    "th": "th",
+    "vi": "vn",
+    "id": "id",
+    "ms": "my"
+  }
+}

@@ -1,0 +1,1 @@
+document.addEventListener('click',async event=>{const button=event.target.closest('[data-short-copy]');if(!button)return;try{await navigator.clipboard.writeText(button.dataset.shortCopy);button.textContent=button.dataset.done;}catch{const input=document.createElement('input');input.value=button.dataset.shortCopy;button.after(input);input.focus();input.select();}});

@@ -1,0 +1,1 @@
+(()=>{'use strict';const form=document.querySelector('[data-admin-member-create]');if(!form)return;const generate=form.elements.generate_password,password=form.elements.new_password;const update=()=>{password.disabled=generate.checked;password.required=!generate.checked;};generate.addEventListener('change',update);update();})();

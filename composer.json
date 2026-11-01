@@ -1,0 +1,12 @@
+{
+  "name": "tripovela/local-site",
+  "description": "A multilingual social network for travelers, trip ideas and shared itineraries",
+  "require": {
+    "php": ">=8.0",
+    "erusev/parsedown": "^1.7.4"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "license": "MIT"
+}

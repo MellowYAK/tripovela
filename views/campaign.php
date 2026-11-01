@@ -1,0 +1,11 @@
+<?php
+$provider=$m[1];$campaign=$m[2];$p=partnerCatalog()[$provider];$c=$p['campaigns'][$campaign]??null;
+if(!$c){http_response_code(404);require ROOT.'/views/not-found.php';return;}
+require_once ROOT.'/src/campaign-content.php';[$headline,$intro,$checks,$photo]=campaignContent($provider,$campaign);$title=$headline.' · '.$p['name'];$description=$intro;
+if($provider==='walla' && $campaign==='family'){require ROOT.'/views/family-guide.php';return;}
+?>
+<section class="offers-hero"><div><span class="eyebrow">TRIPOVELA · <?=e($c[0])?> עם <?=e($p['name'])?></span><h1><?=e($headline)?></h1><p><?=e($intro)?></p><?php if(partnerEnabled($provider)):?><a class="button" rel="sponsored nofollow" href="<?=e(partnerHref($provider,$campaign))?>">לבדיקת <?=e($c[0])?> ב<?=e($p['name'])?> ↗</a><?php else:?><p class="notice">הקישור לספק אינו זמין כרגע.</p><?php endif?><p class="offers-disclosure">קישור שותפים · ייתכן שנקבל עמלה על הזמנה מזכה. המחיר, הזמינות ותנאי ההזמנה נקבעים באתר <?=e($p['name'])?>.</p></div><figure><img src="/assets/<?=e($photo)?>" alt="תמונת אווירה: <?=e(['coast.jpg'=>'פוזיטנו באיטליה','prague.jpg'=>'פראג','alps.jpg'=>'האלפים'][$photo])?>" width="640" height="420"><figcaption>להשראה בלבד · <?=e(['coast.jpg'=>'פוזיטנו, איטליה','prague.jpg'=>'פראג','alps.jpg'=>'האלפים'][$photo])?> · אינו צילום של הצעה מסוימת</figcaption></figure></section>
+<section class="form-panel offer-checklist"><span class="eyebrow">בוחרים עם כל הפרטים</span><h2>שלוש בדיקות לפני ההזמנה</h2><ol class="campaign-checks"><?php foreach($checks as $item):?><li><?=e($item)?></li><?php endforeach?></ol></section>
+<?php renderCampaignExpansion($campaign); ?>
+<section class="partner-panel spacer-bottom"><h2>איך ממשיכים מכאן?</h2><p>בלחיצה תעברו לעמוד <?=e($c[0])?> אצל <?=e($p['name'])?>. בחרו שם תאריכים והרכב נוסעים, בדקו את הפרטים העדכניים והשלימו הזמנה אצל הספק. Tripovela אינו מבצע את ההזמנה ואינו גובה תשלום.</p><?php if(partnerEnabled($provider)):?><a class="button" href="<?=e(partnerHref($provider,$campaign))?>" rel="sponsored nofollow">לאפשרויות של <?=e($p['name'])?> ↗</a><?php endif?></section>
+<nav class="offer-tabs"><a href="/tools/trip-budget/">מתכננים תקציב</a><a href="/tools/package-compare/">משווים חבילות</a><a href="/offers/<?=e($provider)?>/">עוד אפשרויות עם <?=e($p['name'])?></a></nav>

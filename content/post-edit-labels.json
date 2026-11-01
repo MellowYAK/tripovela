@@ -1,0 +1,142 @@
+{
+  "en": {
+    "edit": "Edit post",
+    "history": "Edit history",
+    "version": "Version",
+    "current": "Current post",
+    "history_note": "Previous published versions. The original publication remains the start of the 90-minute editing window.",
+    "save": "Save changes",
+    "notice": "Editing is available for 90 minutes after publication. Audience and publication language stay unchanged.",
+    "expired": "The editing window has expired. Your draft is kept."
+  },
+  "he": {
+    "edit": "עריכת הפוסט",
+    "history": "היסטוריית עריכות",
+    "version": "גרסה",
+    "current": "הפוסט הנוכחי",
+    "history_note": "גרסאות קודמות שפורסמו. חלון העריכה נספר במשך 90 דקות מהפרסום הראשון.",
+    "save": "שמירת שינויים",
+    "notice": "אפשר לערוך עד 90 דקות מהפרסום. קהל היעד ושפת הפרסום נשארים קבועים.",
+    "expired": "חלון העריכה הסתיים. הטיוטה נשמרה."
+  },
+  "ru": {
+    "edit": "Редактировать публикацию",
+    "history": "История изменений",
+    "version": "Версия",
+    "current": "Текущая публикация",
+    "history_note": "Предыдущие опубликованные версии. Срок редактирования — 90 минут с первой публикации.",
+    "save": "Сохранить изменения",
+    "notice": "Редактирование доступно 90 минут после публикации. Аудитория и язык не меняются.",
+    "expired": "Время редактирования истекло. Черновик сохранён."
+  },
+  "ka": {
+    "edit": "პოსტის რედაქტირება",
+    "history": "ცვლილებების ისტორია",
+    "version": "ვერსია",
+    "current": "მიმდინარე პოსტი",
+    "history_note": "წინა გამოქვეყნებული ვერსიები. რედაქტირება შესაძლებელია პირველი გამოქვეყნებიდან 90 წუთის განმავლობაში.",
+    "save": "ცვლილებების შენახვა",
+    "notice": "რედაქტირება ხელმისაწვდომია გამოქვეყნებიდან 90 წუთის განმავლობაში. აუდიტორია და ენა უცვლელია.",
+    "expired": "რედაქტირების დრო ამოიწურა. მონახაზი შენახულია."
+  },
+  "es": {
+    "edit": "Editar publicación",
+    "history": "Historial de cambios",
+    "version": "Versión",
+    "current": "Publicación actual",
+    "history_note": "Versiones publicadas anteriores. El plazo de 90 minutos comienza con la primera publicación.",
+    "save": "Guardar cambios",
+    "notice": "Puedes editar durante 90 minutos tras publicar. El público y el idioma no cambian.",
+    "expired": "El plazo de edición terminó. Tu borrador se conserva."
+  },
+  "it": {
+    "edit": "Modifica il post",
+    "history": "Cronologia modifiche",
+    "version": "Versione",
+    "current": "Post attuale",
+    "history_note": "Versioni pubblicate precedenti. I 90 minuti iniziano dalla prima pubblicazione.",
+    "save": "Salva modifiche",
+    "notice": "Puoi modificare entro 90 minuti dalla pubblicazione. Pubblico e lingua restano invariati.",
+    "expired": "Il periodo di modifica è terminato. La bozza è conservata."
+  },
+  "fr": {
+    "edit": "Modifier la publication",
+    "history": "Historique des modifications",
+    "version": "Version",
+    "current": "Publication actuelle",
+    "history_note": "Versions précédemment publiées. Le délai de 90 minutes commence à la première publication.",
+    "save": "Enregistrer les modifications",
+    "notice": "Modification possible pendant 90 minutes après publication. Le public et la langue restent inchangés.",
+    "expired": "Le délai de modification est expiré. Votre brouillon est conservé."
+  },
+  "de": {
+    "edit": "Beitrag bearbeiten",
+    "history": "Bearbeitungsverlauf",
+    "version": "Version",
+    "current": "Aktueller Beitrag",
+    "history_note": "Frühere veröffentlichte Versionen. Die 90 Minuten beginnen mit der ersten Veröffentlichung.",
+    "save": "Änderungen speichern",
+    "notice": "Bearbeitung innerhalb von 90 Minuten nach Veröffentlichung. Zielgruppe und Sprache bleiben unverändert.",
+    "expired": "Die Bearbeitungsfrist ist abgelaufen. Dein Entwurf bleibt erhalten."
+  },
+  "ar": {
+    "edit": "تعديل المنشور",
+    "history": "سجل التعديلات",
+    "version": "نسخة",
+    "current": "المنشور الحالي",
+    "history_note": "النسخ المنشورة السابقة. تبدأ مهلة 90 دقيقة من النشر الأول.",
+    "save": "حفظ التغييرات",
+    "notice": "يمكن التعديل خلال 90 دقيقة من النشر. يظل الجمهور واللغة دون تغيير.",
+    "expired": "انتهت مهلة التعديل. تم الاحتفاظ بالمسودة."
+  },
+  "cs": {
+    "edit": "Upravit příspěvek",
+    "history": "Historie úprav",
+    "version": "Verze",
+    "current": "Aktuální příspěvek",
+    "history_note": "Předchozí zveřejněné verze. Lhůta 90 minut začíná prvním zveřejněním.",
+    "save": "Uložit změny",
+    "notice": "Úpravy jsou možné 90 minut po zveřejnění. Publikum a jazyk se nemění.",
+    "expired": "Lhůta pro úpravy vypršela. Koncept je zachován."
+  },
+  "hu": {
+    "edit": "Bejegyzés szerkesztése",
+    "history": "Módosítási előzmények",
+    "version": "Verzió",
+    "current": "Jelenlegi bejegyzés",
+    "history_note": "Korábbi közzétett verziók. A 90 perc az első közzétételtől számít.",
+    "save": "Módosítások mentése",
+    "notice": "A közzétételtől számított 90 percig szerkeszthető. A közönség és a nyelv nem változik.",
+    "expired": "A szerkesztési idő lejárt. A piszkozat megmaradt."
+  },
+  "nl": {
+    "edit": "Bericht bewerken",
+    "history": "Bewerkingsgeschiedenis",
+    "version": "Versie",
+    "current": "Huidig bericht",
+    "history_note": "Eerder gepubliceerde versies. De 90 minuten beginnen bij de eerste publicatie.",
+    "save": "Wijzigingen opslaan",
+    "notice": "Bewerken kan tot 90 minuten na publicatie. Publiek en taal blijven ongewijzigd.",
+    "expired": "De bewerkingstijd is verstreken. Je concept blijft bewaard."
+  },
+  "pl": {
+    "edit": "Edytuj post",
+    "history": "Historia zmian",
+    "version": "Wersja",
+    "current": "Aktualny post",
+    "history_note": "Poprzednie opublikowane wersje. Okres 90 minut zaczyna się od pierwszej publikacji.",
+    "save": "Zapisz zmiany",
+    "notice": "Edycja jest możliwa przez 90 minut od publikacji. Odbiorcy i język pozostają bez zmian.",
+    "expired": "Czas edycji minął. Szkic został zachowany."
+  },
+  "pt": {
+    "edit": "Editar publicação",
+    "history": "Histórico de edições",
+    "version": "Versão",
+    "current": "Publicação atual",
+    "history_note": "Versões publicadas anteriormente. Os 90 minutos começam na primeira publicação.",
+    "save": "Guardar alterações",
+    "notice": "Pode editar durante 90 minutos após publicar. O público e o idioma não mudam.",
+    "expired": "O prazo de edição terminou. O rascunho foi mantido."
+  }
+}

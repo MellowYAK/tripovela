@@ -1,0 +1,1 @@
+(()=>{const nav=document.querySelector('.admin-navigation');if(nav&&matchMedia('(max-width:760px)').matches)nav.open=false;let dirty=false;document.addEventListener('input',e=>{if(e.target.closest('form'))dirty=true});document.addEventListener('submit',()=>dirty=false);window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue=''}})})();

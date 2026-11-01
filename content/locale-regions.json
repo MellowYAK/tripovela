@@ -1,0 +1,325 @@
+{
+  "he": {
+    "countries": [
+      "IL"
+    ],
+    "currency": "ILS"
+  },
+  "en": {
+    "countries": [
+      "US",
+      "GB",
+      "AU",
+      "NZ",
+      "CA",
+      "IE",
+      "ZA",
+      "SG",
+      "BZ",
+      "JM",
+      "BS",
+      "BB",
+      "TT",
+      "AG",
+      "DM",
+      "GD",
+      "KN",
+      "LC",
+      "VC",
+      "GY",
+      "FJ",
+      "PG",
+      "SB",
+      "VU",
+      "WS",
+      "TO",
+      "MH",
+      "FM",
+      "PW"
+    ],
+    "currency": "USD"
+  },
+  "ru": {
+    "countries": [
+      "RU",
+      "UA",
+      "BY"
+    ],
+    "currency": "USD"
+  },
+  "ka": {
+    "countries": [
+      "GE"
+    ],
+    "currency": "USD"
+  },
+  "cs": {
+    "countries": [
+      "CZ"
+    ],
+    "currency": "USD"
+  },
+  "de": {
+    "countries": [
+      "DE",
+      "AT",
+      "LI",
+      "CH"
+    ],
+    "currency": "EUR"
+  },
+  "fr": {
+    "countries": [
+      "FR",
+      "MC"
+    ],
+    "currency": "EUR"
+  },
+  "it": {
+    "countries": [
+      "IT",
+      "SM"
+    ],
+    "currency": "EUR"
+  },
+  "es": {
+    "countries": [
+      "ES",
+      "MX",
+      "AR",
+      "CO",
+      "CL",
+      "PE",
+      "BO",
+      "CR",
+      "CU",
+      "DO",
+      "EC",
+      "GT",
+      "HN",
+      "NI",
+      "PA",
+      "PY",
+      "SV",
+      "UY",
+      "VE"
+    ],
+    "currency": "EUR"
+  },
+  "pt": {
+    "countries": [
+      "PT",
+      "BR"
+    ],
+    "currency": "EUR"
+  },
+  "nl": {
+    "countries": [
+      "NL",
+      "BE",
+      "SR"
+    ],
+    "currency": "EUR"
+  },
+  "el": {
+    "countries": [
+      "GR",
+      "CY"
+    ],
+    "currency": "EUR"
+  },
+  "fi": {
+    "countries": [
+      "FI"
+    ],
+    "currency": "EUR"
+  },
+  "et": {
+    "countries": [
+      "EE"
+    ],
+    "currency": "EUR"
+  },
+  "lv": {
+    "countries": [
+      "LV"
+    ],
+    "currency": "EUR"
+  },
+  "lt": {
+    "countries": [
+      "LT"
+    ],
+    "currency": "EUR"
+  },
+  "sk": {
+    "countries": [
+      "SK"
+    ],
+    "currency": "EUR"
+  },
+  "sl": {
+    "countries": [
+      "SI"
+    ],
+    "currency": "EUR"
+  },
+  "hr": {
+    "countries": [
+      "HR"
+    ],
+    "currency": "EUR"
+  },
+  "mt": {
+    "countries": [
+      "MT"
+    ],
+    "currency": "EUR"
+  },
+  "pl": {
+    "countries": [
+      "PL"
+    ],
+    "currency": "USD"
+  },
+  "hu": {
+    "countries": [
+      "HU"
+    ],
+    "currency": "USD"
+  },
+  "ro": {
+    "countries": [
+      "RO",
+      "MD"
+    ],
+    "currency": "USD"
+  },
+  "bg": {
+    "countries": [
+      "BG"
+    ],
+    "currency": "USD"
+  },
+  "sv": {
+    "countries": [
+      "SE"
+    ],
+    "currency": "USD"
+  },
+  "da": {
+    "countries": [
+      "DK"
+    ],
+    "currency": "USD"
+  },
+  "nb": {
+    "countries": [
+      "NO"
+    ],
+    "currency": "USD"
+  },
+  "is": {
+    "countries": [
+      "IS"
+    ],
+    "currency": "USD"
+  },
+  "tr": {
+    "countries": [
+      "TR"
+    ],
+    "currency": "USD"
+  },
+  "ar": {
+    "countries": [
+      "AE",
+      "SA",
+      "EG",
+      "JO",
+      "BH",
+      "KW",
+      "OM",
+      "QA",
+      "IQ",
+      "LB",
+      "PS",
+      "SY",
+      "YE",
+      "DZ",
+      "MA",
+      "TN",
+      "LY",
+      "SD",
+      "MR"
+    ],
+    "currency": "USD"
+  },
+  "hy": {
+    "countries": [
+      "AM"
+    ],
+    "currency": "USD"
+  },
+  "az": {
+    "countries": [
+      "AZ"
+    ],
+    "currency": "USD"
+  },
+  "fa": {
+    "countries": [
+      "IR"
+    ],
+    "currency": "USD"
+  },
+  "hi": {
+    "countries": [
+      "IN"
+    ],
+    "currency": "USD"
+  },
+  "zh": {
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "currency": "USD"
+  },
+  "ja": {
+    "countries": [
+      "JP"
+    ],
+    "currency": "USD"
+  },
+  "ko": {
+    "countries": [
+      "KR"
+    ],
+    "currency": "USD"
+  },
+  "th": {
+    "countries": [
+      "TH"
+    ],
+    "currency": "USD"
+  },
+  "vi": {
+    "countries": [
+      "VN"
+    ],
+    "currency": "USD"
+  },
+  "id": {
+    "countries": [
+      "ID"
+    ],
+    "currency": "USD"
+  },
+  "ms": {
+    "countries": [
+      "MY"
+    ],
+    "currency": "USD"
+  }
+}

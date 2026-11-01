@@ -1,0 +1,2 @@
+<?php $directionsLabels=json_decode(file_get_contents(ROOT.'/content/directions-labels.json'),true)[siteLanguage()]; ?>
+<script type="application/json" id="directions-labels"><?=json_encode($directionsLabels,JSON_HEX_TAG|JSON_HEX_AMP)?></script><link rel="stylesheet" href="/assets/directions-choice.css?v=<?=filemtime(ROOT.'/public/assets/directions-choice.css')?>"><script defer src="/assets/directions-choice.js?v=<?=filemtime(ROOT.'/public/assets/directions-choice.js')?>"></script>

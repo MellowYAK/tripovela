@@ -1,0 +1,114 @@
+{
+  "en": {
+    "open": "Open directions",
+    "driving": "Waze is for driving.",
+    "cancel": "Cancel",
+    "before_copy": "You can save in this browser without signing up.",
+    "time": "About {h} h {m} min",
+    "walking": "{m} min walking"
+  },
+  "he": {
+    "open": "פתיחת הוראות הגעה",
+    "driving": "Waze מיועד לנהיגה.",
+    "cancel": "ביטול",
+    "before_copy": "אפשר לשמור בדפדפן ללא הרשמה.",
+    "time": "כ־{h} שעות ו־{m} דקות",
+    "walking": "{m} דקות הליכה"
+  },
+  "ru": {
+    "open": "Открыть маршрут",
+    "driving": "Waze предназначен для поездок на автомобиле.",
+    "cancel": "Отмена",
+    "before_copy": "Можно сохранить в браузере без регистрации.",
+    "time": "Около {h} ч {m} мин",
+    "walking": "{m} мин пешком"
+  },
+  "ka": {
+    "open": "მარშრუტის გახსნა",
+    "driving": "Waze განკუთვნილია ავტომობილით მგზავრობისთვის.",
+    "cancel": "გაუქმება",
+    "before_copy": "შეგიძლიათ შეინახოთ ამ ბრაუზერში რეგისტრაციის გარეშე.",
+    "time": "დაახლოებით {h} სთ {m} წთ",
+    "walking": "{m} წთ ფეხით"
+  },
+  "es": {
+    "open": "Abrir indicaciones",
+    "driving": "Waze es para conducir.",
+    "cancel": "Cancelar",
+    "before_copy": "Puedes guardar en este navegador sin registrarte.",
+    "time": "Unas {h} h {m} min",
+    "walking": "{m} min a pie"
+  },
+  "it": {
+    "open": "Apri indicazioni",
+    "driving": "Waze è per la guida.",
+    "cancel": "Annulla",
+    "before_copy": "Puoi salvare in questo browser senza registrarti.",
+    "time": "Circa {h} h {m} min",
+    "walking": "{m} min a piedi"
+  },
+  "fr": {
+    "open": "Ouvrir les itinéraires",
+    "driving": "Waze est destiné à la conduite.",
+    "cancel": "Annuler",
+    "before_copy": "Vous pouvez enregistrer dans ce navigateur sans inscription.",
+    "time": "Environ {h} h {m} min",
+    "walking": "{m} min à pied"
+  },
+  "de": {
+    "open": "Wegbeschreibung öffnen",
+    "driving": "Waze ist für Autofahrten gedacht.",
+    "cancel": "Abbrechen",
+    "before_copy": "Du kannst ohne Registrierung in diesem Browser speichern.",
+    "time": "Etwa {h} Std. {m} Min.",
+    "walking": "{m} Min. zu Fuß"
+  },
+  "ar": {
+    "open": "فتح الاتجاهات",
+    "driving": "Waze مخصص للقيادة.",
+    "cancel": "إلغاء",
+    "before_copy": "يمكنك الحفظ في هذا المتصفح دون تسجيل.",
+    "time": "حوالي {h} ساعة و{m} دقيقة",
+    "walking": "{m} دقيقة مشياً"
+  },
+  "cs": {
+    "open": "Otevřít trasu",
+    "driving": "Waze je určen pro jízdu autem.",
+    "cancel": "Zrušit",
+    "before_copy": "Můžete uložit v tomto prohlížeči bez registrace.",
+    "time": "Asi {h} h {m} min",
+    "walking": "{m} min pěšky"
+  },
+  "hu": {
+    "open": "Útvonaltervezés megnyitása",
+    "driving": "A Waze autós navigációra szolgál.",
+    "cancel": "Mégse",
+    "before_copy": "Regisztráció nélkül menthetsz ebben a böngészőben.",
+    "time": "Körülbelül {h} ó {m} perc",
+    "walking": "{m} perc gyalog"
+  },
+  "nl": {
+    "open": "Routebeschrijving openen",
+    "driving": "Waze is voor autorijden.",
+    "cancel": "Annuleren",
+    "before_copy": "Je kunt zonder registratie in deze browser opslaan.",
+    "time": "Ongeveer {h} u {m} min",
+    "walking": "{m} min lopen"
+  },
+  "pl": {
+    "open": "Otwórz wskazówki dojazdu",
+    "driving": "Waze służy do jazdy samochodem.",
+    "cancel": "Anuluj",
+    "before_copy": "Możesz zapisać w tej przeglądarce bez rejestracji.",
+    "time": "Około {h} godz. {m} min",
+    "walking": "{m} min pieszo"
+  },
+  "pt": {
+    "open": "Abrir direções",
+    "driving": "Waze destina-se à condução.",
+    "cancel": "Cancelar",
+    "before_copy": "Pode guardar neste navegador sem registo.",
+    "time": "Cerca de {h} h {m} min",
+    "walking": "{m} min a pé"
+  }
+}
