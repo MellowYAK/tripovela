@@ -12,7 +12,8 @@ function mrRegister(array $input,string $language): array {
  if(strlen($password)>72)throw new DomainException('invalid');
  if(!is_string($input['password_confirm']??null)||!hash_equals((string)$input['password'],$input['password_confirm']))throw new DomainException('password_mismatch');
  if(empty($input['adult']))throw new DomainException('adult_required');
- $name=socialString($input['display_name']??'',60,1);
+ // One public username is enough at signup; profile names can be edited later.
+ $name=socialString($input['display_name']??$handle,60,1);
  $email=strtolower(socialString($input['email']??'',254,3));if(!filter_var($email,FILTER_VALIDATE_EMAIL))throw new DomainException('email_invalid');
  $language=networkLanguage($language);mrCaptchaVerify($input);mrSchema();$d=socialDb();$d->beginTransaction();
  try{

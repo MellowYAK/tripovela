@@ -3,3 +3,4 @@
 .queue-filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}.queue-filters label{display:grid;gap:6px}.queue-filters input,.queue-filters select{width:100%;min-width:0}.admin-frame details>summary{cursor:pointer;padding:12px 0}.admin-frame .social-card h2{font-size:21px}
 
 .admin-frame .social-card form{display:flex;gap:8px;flex-wrap:wrap;align-items:end}.admin-frame .social-card form label{display:grid;gap:6px}
+.admin-frame aside{max-height:calc(100dvh - 24px);overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}.admin-top{flex-wrap:wrap}.admin-navigation nav a{overflow-wrap:anywhere}@media(max-width:760px){.admin-frame aside{max-height:none;overflow:visible}.admin-navigation[open] nav{max-height:60dvh;overflow-y:auto;overscroll-behavior:contain;padding-bottom:12px}.admin-navigation nav{gap:8px}.admin-top{row-gap:12px}}

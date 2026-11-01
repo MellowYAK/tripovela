@@ -23,3 +23,40 @@
 
 .rev-context-nav{max-width:1200px;margin:10px auto;padding-inline:20px}.rev-context-nav nav{display:flex;gap:20px;flex-wrap:wrap}.rev-context-nav a{display:inline-flex;align-items:center;gap:6px;min-height:44px}.rev-context-nav svg{width:20px;height:20px}@media(max-width:767px){.rev-context-nav{display:none}}
 .social-design>footer{display:block;max-width:1200px;margin:32px auto 80px;padding:20px 24px;border-top:1px solid #e0e3e9;background:transparent}.social-design>footer .footer-top{display:flex;flex-wrap:wrap;gap:20px}.social-design>footer nav{display:flex;flex-wrap:wrap;gap:6px 18px}.social-design>footer nav a{display:inline-flex;align-items:center;min-height:44px}.social-design>footer .brand-logo{width:150px;height:auto}.social-design>footer .footer-bottom{font-size:12px;margin-top:14px}
+
+/* Mobile flow: wrapping keeps real gaps and navigation remains reachable. */
+.social-design .network-avatar{flex:0 0 42px;width:42px;height:42px;min-width:42px;max-width:42px;aspect-ratio:1;border-radius:50%;padding:0;line-height:1;white-space:nowrap}
+.social-design .network-author-link{min-width:0}.social-design .network-author-link>span:not(.network-avatar){min-width:0;overflow-wrap:anywhere}
+.social-design .network-sidebar{max-height:calc(100dvh - 100px);overflow-y:auto;overscroll-behavior:contain;padding-bottom:16px;scrollbar-width:thin}
+.sc-account nav{max-height:calc(100dvh - 160px);overflow-y:auto;overscroll-behavior:contain}
+.mobile-nav{max-height:calc(100dvh - 100px);overflow-y:auto;overscroll-behavior:contain}
+.social-design :is(.sc-side-links,.sc-header-tools,.network-route-meta,.sc-question-buttons,.se-controls,.sx-actions){flex-wrap:wrap;row-gap:10px}
+.social-design .network-route-meta>span{max-width:100%;white-space:normal;overflow-wrap:anywhere}
+.social-design .network-card-text h2{overflow-wrap:anywhere}
+.social-design .account-entry{max-width:540px;margin:0 auto 32px}
+.social-design .account-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+.account-tabs a{display:flex;align-items:center;justify-content:center;min-height:44px;padding:10px 14px;border:1px solid var(--tv-border);border-radius:8px;background:white;color:var(--tv-ink)}
+.account-tabs a[aria-current]{background:#e3f3ee;border-color:#008675;color:#006b59;font-weight:600}
+.social-design .account-forms{display:block}.social-design .account-forms form[hidden]{display:none}
+.social-design .account-forms .social-card{padding:20px;margin:0}
+.account-forms h2{margin-top:0}.account-forms label:not(.social-check){display:grid;gap:6px;margin:14px 0 6px}
+.account-forms input:not([type=checkbox]){width:100%;min-height:44px;padding:10px 12px;border:1px solid var(--tv-border);border-radius:8px;font:inherit}
+.account-forms small{display:block;color:var(--tv-muted);line-height:1.5;overflow-wrap:anywhere}.account-forms .social-check{display:flex;gap:10px;align-items:flex-start;margin:18px 0}.account-forms .social-check input{flex:none;width:18px;height:18px;margin-top:3px}
+.account-forms button[type=submit],.account-forms .button{width:100%;margin-top:12px}
+.social-design .social-search-page{max-width:860px;margin:24px auto}.social-search-heading{padding:24px;background:white;border:1px solid var(--tv-border);border-radius:12px;margin-bottom:20px}.social-search-heading h1{margin:0 0 8px}.social-search-heading p{color:var(--tv-muted);margin:0 0 18px}
+.social-search-form{display:flex;gap:10px;align-items:center}.social-search-form input{flex:1;min-width:0;min-height:48px;padding:12px;border:1px solid var(--tv-border);border-radius:8px;font:inherit}.social-search-form .button{min-height:48px}
+.social-search-shortcuts{display:flex;flex-wrap:wrap;gap:12px;margin-top:18px}.social-search-shortcuts a{display:flex;gap:10px;align-items:center;flex:1 1 160px;padding:16px;border:1px solid var(--tv-border);border-radius:10px;color:var(--tv-ink);background:#f6faf8}
+.social-search-results{display:grid;gap:16px}.social-search-results>section{margin:0!important}.social-search-results h2{margin-top:0}.social-search-results .sc-place-tile{margin-block:10px;padding:12px}.social-search-results form{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin-bottom:16px}.social-search-results form label{display:grid;gap:6px;flex:1;min-width:140px}.social-search-results select{min-height:44px;padding:8px;border-radius:8px;border:1px solid var(--tv-border)}
+@media(max-width:767px){
+ .social-design .sc-header-inner{height:auto;min-height:58px;padding:10px 12px;gap:10px 12px;align-content:center}.social-design .sc-header-tools{gap:8px 10px;min-width:0}.sc-guest-links{flex-wrap:wrap;white-space:normal;row-gap:8px}.sc-guest-links a{display:inline-flex;align-items:center;min-height:36px}
+ .social-design .network-avatar{flex-basis:36px;width:36px;height:36px;min-width:36px;max-width:36px}.social-design .sc-header .network-avatar{flex-basis:32px;width:32px;height:32px;min-width:32px;max-width:32px}
+ .social-design .network-author{gap:10px;margin-inline:0;flex-wrap:wrap}.social-design .network-author-link{flex:1 1 180px}.social-design .sc-card-meta{flex-wrap:wrap;gap:6px;margin-block:8px;padding-inline-start:0}
+ .social-design .sc-question-buttons>*{flex:1 1 130px;text-align:center;padding:10px!important}.social-design .sx-actions{gap:10px}.social-design .sx-actions>button{margin:0;max-width:100%}
+ .social-design .social-search-page{margin:16px auto}.social-search-heading{padding:16px}.social-search-form{flex-wrap:wrap}.social-search-form input{flex-basis:100%;font-size:16px}.social-search-form .button{width:100%}.social-search-shortcuts a{flex-basis:100%}
+ .social-design .account-forms .social-card{padding:16px}.account-forms input{font-size:16px!important}.account-tabs a{flex:1 1 100px}.social-design>footer{margin-bottom:100px;padding:20px 16px}
+}
+.social-page:has(.account-entry)>.social-nav{display:none}.gt-trip-state[data-compact="1"] .gt-trip-privacy{display:none}.social-search-results .sc-place-tile{flex-wrap:wrap;gap:12px}.social-search-results .sc-place-tile>div{flex:1 1 180px;min-width:0}.social-search-results .sc-place-tile>img{flex:none}.social-search-results .sc-place-tile button{padding:8px 12px;min-height:44px;white-space:normal}
+
+.social-design .sc-header .network-avatar{flex:0 0 32px;width:32px;height:32px;min-width:32px;max-width:32px}.social-design .network-avatar-large{flex:0 0 100px;width:100px;height:100px;min-width:100px;max-width:100px}@media(max-width:767px){.social-design .network-avatar-large{flex-basis:90px;width:90px;height:90px;min-width:90px;max-width:90px}}
+
+.social-design .network-avatar{min-height:42px}.social-design .sc-header .network-avatar{min-height:32px}.social-design .network-avatar-large{min-height:100px}@media(max-width:767px){.social-design .network-avatar{min-height:36px}.social-design .sc-header .network-avatar{min-height:32px}.social-design .network-avatar-large{min-height:90px}}
